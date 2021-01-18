@@ -61,7 +61,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Modeling and Simulation in Chemistry."
   links:
-    - label: "Website"
+    - label: "UAntwerp"
       icon: "fas fa-fw fa-link"
       url: "https://www.uantwerpen.be/en/staff/erik-neyts/"
     - label: "Orcid"
