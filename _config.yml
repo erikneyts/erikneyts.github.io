@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Erik C. Neyts"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Modeling and Simulation in Chemistry."
+  bio    : "Full professor, Dept. Chemistry, University of Antwerp"
   links:
     - label: "UAntwerp"
       icon: "fas fa-fw fa-link"
