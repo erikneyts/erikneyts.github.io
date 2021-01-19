@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 excerpt: "Modeling and Simulation in Chemistry"
 image:
   feature: logo.jpg
