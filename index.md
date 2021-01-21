@@ -1,4 +1,5 @@
 ---
+author: Erik C. Neyts
 layout: single
 permalink: /
 hidden: true
