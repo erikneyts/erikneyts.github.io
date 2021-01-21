@@ -1,4 +1,5 @@
 ---
+author: Mosaic
 layout: single
 title: "About"
 permalink: /about/
