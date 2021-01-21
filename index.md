@@ -3,7 +3,6 @@ layout: single
 permalink: /
 hidden: true
 author_profile: true
-tagline: "This is a custom tagline"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/image.jpg
