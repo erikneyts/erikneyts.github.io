@@ -1,5 +1,5 @@
 ---
-author: Erik C. Neyts
+author: "Erik C. Neyts"
 layout: single
 permalink: /
 hidden: true
