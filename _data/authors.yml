@@ -1,15 +1,7 @@
-# /_data/authors.yml
-
-Billy Rick:
+Mosaic:
   name        : "Mosaic"
-  avatar      : "/assets/images/logo.jpg"
+  avatar      : "/assets/images/logo-bare.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+      url: "mailto:erik.neyts@uantwerpen.be"
