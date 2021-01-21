@@ -1,6 +1,6 @@
 Mosaic:
   name        : "Mosaic"
-  avatar      : "/assets/images/logo-bare.jpg"
+  avatar      : "/assets/images/logo-frame.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
