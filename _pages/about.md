@@ -5,6 +5,7 @@ title: "About"
 permalink: /about/
 hidden: true
 author_profile: true
+tagline: ""
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/masthead-image.jpg
