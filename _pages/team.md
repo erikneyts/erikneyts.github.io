@@ -1,8 +1,8 @@
 ---
 author: Mosaic
 layout: single
-title: "About"
-permalink: /about/
+title: "Team"
+permalink: /team/
 hidden: true
 author_profile: true
 tagline: ""
