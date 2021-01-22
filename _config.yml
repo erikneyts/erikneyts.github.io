@@ -68,10 +68,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : ""
-  avatar : "/assets/images/logo-frame.jpg"
-  bio    : ""
+
 
 footer:
   links:
