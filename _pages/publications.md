@@ -426,9 +426,10 @@ Neyts E.C., van Duin A.C.T., Bogaerts A.<br>
 J Am Chem Soc 134, 1256 (2012).<br><br>
 <b>Modeling aspects of plasma-enhanced chemical vapor deposition of carbon-based materials</b><br>
 Neyts E, Mao M, Eckert M, Bogaerts A<br>
-CRC Press, Boca Raton, Fla, Plasma processing of nanomaterials / Sankaran, R.M. [edit.], 245–290(2012) .<br><br>
+CRC Press, Boca Raton, Fla, Plasma processing of nanomaterials / Sankaran, R.M. [edit.], 245–290 (2012).<br><br>
 <h2>2011</h2>
-<b>Can we control the thickness of ultrathin silica layers by hyperthermal silicon oxidation at room temperature?<b> Khalilov U., Neyts E.C., Pourtois G., van Duin A.C.T.</b><br>
+<b>Can we control the thickness of ultrathin silica layers by hyperthermal silicon oxidation at room temperature?</b><br> 
+Khalilov U., Neyts E.C., Pourtois G., van Duin A.C.T.<br>
 J Phys Chem C 115, 24839 (2011).<br><br>
 <b>Changing chirality during single-walled carbon nanotube growth : a reactive molecular dynamics/Monte Carlo study</b><br>
 Neyts E.C., van Duin A.C.T., Bogaerts A.<br>
