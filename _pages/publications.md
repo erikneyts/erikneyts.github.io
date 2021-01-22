@@ -39,7 +39,7 @@ Engelmann Y, Mehta P, Neyts EC, Schneider WF, Bogaerts A
 6043–6054 (2020).
  
 
-**Activation of CO2on Copper Surfaces: The Synergy between Electric Field, Surface Morphology, and Excess Electrons**  
+**Activation of CO₂ on Copper Surfaces: The Synergy between Electric Field, Surface Morphology, and Excess Electrons**  
 Jafarzadeh A., Bal K.M., Bogaerts A., Neyts E.C.
 J Phys Chem C 124, 6747 (2020).
  
@@ -65,7 +65,7 @@ Appl Catal A-Gen 602, 117716 (2020).
 
 
 ## 2019
-**Direct methane conversion to methanol on M and MN4 embedded graphene (M = Ni and Si): a comparative DFT study**  
+**Direct methane conversion to methanol on M and MN<sup>4</sup> embedded graphene (M = Ni and Si): a comparative DFT study**  
 Nematollahi P., Neyts E.C.
 Appl Surf Sci 496, 143618 (2019).
  
