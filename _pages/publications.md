@@ -26,7 +26,7 @@ Carbon 171, 72 (2021).
 
 **On the kinetics and equilibria of plasma-based dry reforming of methane**  
 Uytdenhouwen Y, Bal K, Neyts E, Meynen V, Cool P, Bogaerts A
-126630(2021) .
+126630 (2021).
  
 
 ## 2020
