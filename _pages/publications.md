@@ -19,11 +19,9 @@ header:
 div.a {
   font-size: 15px;
 }
-
 div.b {
   font-size: large;
 }
-
 div.c {
   font-size: 150%;
 }
@@ -31,19 +29,18 @@ div.c {
 </head>
 <body>
 
-
 <div class="b">
-<h2>2021</h2><br>
+<h2>2021</h2>
 <b>Entropic and enthalpic factors determining the thermodynamics and kinetics of carbon segregation from transition metal nanoparticles</b><br>
 Fukuhara S., Bal K.M., Neyts E.C., Shibuta Y.<br>
-Carbon 171, 806 (2021).<br>
+Carbon 171, 806 (2021).<br><br>
 <b>Mechanisms of selective nanocarbon synthesis inside carbon nanotubes</b><br>
 Khalilov U., Neyts E.C.<br>
-Carbon 171, 72 (2021).<br>
+Carbon 171, 72 (2021).<br><br>
 <b>On the kinetics and equilibria of plasma-based dry reforming of methane</b><br>
 Uytdenhouwen Y, Bal K, Neyts E, Meynen V, Cool P, Bogaerts A<br>
 Chem Eng J 405, 126630 (2021).<br>
-<h2>2020</h2><br>
+<h2>2020</h2>
 <b>Free energy barriers from biased molecular dynamics simulations</b><br>
 Bal K.M., Fukuhara S., Shibuta Y., Neyts E.C.<br>
 J Chem Phys 153, 114118 (2020).<br>
