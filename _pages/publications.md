@@ -30,21 +30,14 @@ div.c {
 </style>
 </head>
 <body>
-<h1>The font-size Property</h1>
 
-<div class="a">This is some text.</div>
-
-<div class="b">This is some text.</div>
-
-<div class="c">This is some text.</div>
 
 <div class="b">
 
-## 2021
-**Entropic and enthalpic factors determining the thermodynamics and kinetics of carbon segregation from transition metal nanoparticles**  
+<h1>2021</h1>
+<h2>Entropic and enthalpic factors determining the thermodynamics and kinetics of carbon segregation from transition metal nanoparticles</h2>
 Fukuhara S., Bal K.M., Neyts E.C., Shibuta Y.
 Carbon 171, 806 (2021).
-
 </div>
 
 </body>
