@@ -1,6 +1,7 @@
 ---
 author: Mosaic
 layout: single
+classes: wide
 title: "Publications"
 permalink: /publications/
 hidden: true
@@ -12,7 +13,7 @@ header:
   caption: "Photo credit: [pngtree](https://www.pinterest.co.uk/pin/403283341624204549/)"
 ---
 
-##2021
+## 2021
 **Entropic and enthalpic factors determining the thermodynamics and kinetics of carbon segregation from transition metal nanoparticles**
 Fukuhara S., Bal K.M., Neyts E.C., Shibuta Y.
 Carbon 171, 806 (2021).
@@ -28,11 +29,10 @@ Uytdenhouwen Y, Bal K, Neyts E, Meynen V, Cool P, Bogaerts A
 126630(2021) .
  
 
-##2020
+## 2020
 **Free energy barriers from biased molecular dynamics simulations**
 Bal K.M., Fukuhara S., Shibuta Y., Neyts E.C.
 J Chem Phys 153, 114118 (2020).
- 
 
 **Predicted Influence of Plasma Activation on Nonoxidative Coupling of Methane on Transition Metal Catalysts**
 Engelmann Y, Mehta P, Neyts EC, Schneider WF, Bogaerts A
@@ -64,7 +64,7 @@ Nematollahi P., Neyts E.C.
 Appl Catal A-Gen 602, 117716 (2020).
 
 
-##2019
+## 2019
 **Direct methane conversion to methanol on M and MN4 embedded graphene (M = Ni and Si): a comparative DFT study**
 Nematollahi P., Neyts E.C.
 Appl Surf Sci 496, 143618 (2019).
@@ -115,7 +115,7 @@ Grubova I.Y., Surmeneva M.A., Huygh S., Surmenev R.A., Neyts E.C.
 Comp Mater Sci 159, 228 (2019).
  
 
-##2018
+## 2018
 **Thermal recrystallization of short-range ordered WS2 films**
 Heyne M.H., de Marneffe J.-F., Radu I., Neyts E.C., De Gendt S.
 J Vac Sci Technol A 36, 05g501 (2018).
@@ -176,7 +176,7 @@ Neyts E.C.
 Front Chem Sci Eng 12, 145 (2018).
  
 
-##2017
+## 2017
 **The formation of Cr2O3 nanoclusters over graphene sheet and carbon nanotubes**
 Dabaghmanesh S., Neek-Amal M., Partoens B., Neyts E.C.
 Chem Phys Lett 687, 188 (2017).
@@ -280,7 +280,7 @@ Plasma Process Polym 14, e1600158 (2017).
 Neyts E.C., Brault P.
 Plasma Process Polym 14, 1600145 (2017).
 
-##2016
+## 2016
 **Influence of the Material Dielectric Constant on Plasma Generation inside Catalyst Pores**
 Zhang Y.-R., Neyts E.C., Bogaerts A.
 J Phys Chem C 120, 25923 (2016).
@@ -347,7 +347,7 @@ Bogaerts A., Khosravian N., Van der Paal J., Verlackt C.C.W., Yusupov M., Kamara
 J Phys D Appl Phys 49, 054002 (2016).
  
 
-##2015
+## 2015
 **Atomic scale simulation of carbon nanotube nucleation from hydrocarbon precursors**
 Khalilov U., Bogaerts A., Neyts E.C.
 Nat Commun 6, 10306 (2015).
@@ -419,7 +419,7 @@ Plasma Process Polym 12, 162 (2015).
 Xie L., Brault P., Coutanceau C., Bauchire J.-M., Caillard A., Baranton S., Berndt J., Neyts E.C.
 Appl Catal B-Environ 162, 21 (2015).
 
-##2014
+## 2014
 **On the time scale associated with Monte Carlo simulations**
 Bal K.M., Neyts E.C.
 J Chem Phys 141, 204104 (2014).
@@ -486,7 +486,7 @@ J Phys D Appl Phys 47, 025205 (2014).
 Neyts E
 Acco, Leuven, 317 p.(2014) .
 
-##2013
+## 2013
 **On the low-temperature growth mechanism of single walled carbon nanotubes in plasma enhanced chemical vapor deposition**
 Shariat M., Shokri B., Neyts E.C.
 Chem Phys Lett 590, 131 (2013).
@@ -540,7 +540,7 @@ Theor Chem Acc 132, 1320 (2013).
 Khalilov U., Pourtois G., Bogaerts A., van Duin A.C.T., Neyts E.C.
 Nanoscale 5, 719 (2013).
 
-##2012
+## 2012
 **Modeling of plasma and plasma-surface interactions for medical, environmental and nano applications**
 Bogaerts A., Aerts R., Snoeckx R., Somers W., Van Gaens W., Yusupov M., Neyts E.
 Journal of physics : conference series 399, 012011 (2012).
@@ -593,7 +593,7 @@ J Am Chem Soc 134, 1256 (2012).
 Neyts E, Mao M, Eckert M, Bogaerts A
 CRC Press, Boca Raton, Fla, Plasma processing of nanomaterials / Sankaran, R.M. [edit.], 245–290(2012) .
 
-##2011
+## 2011
 **Can we control the thickness of ultrathin silica layers by hyperthermal silicon oxidation at room temperature?** Khalilov U., Neyts E.C., Pourtois G., van Duin A.C.T.
 J Phys Chem C 115, 24839 (2011).
 
@@ -617,7 +617,7 @@ Chem Mater 23, 1414 (2011).
 Neyts E., Maeyens A., Pourtois G., Bogaerts A.
 Carbon 49, 1013 (2011).
 
-##2010
+## 2010
 **Catalyzed growth of carbon nanotube with definable chirality by hybrid molecular dynamics-force biased Monte Carlo simulations**
 Neyts E.C., Shibuta Y., van Duin A.C.T., Bogaerts A.
 Acs Nano 4, 6665 (2010).
@@ -642,7 +642,7 @@ Pure Appl Chem 82, 1283 (2010).
 Neyts E., Shibuta Y., Bogaerts A.
 Chem Phys Lett 488, 202 (2010).
 
-##2009
+## 2009
 **Characterization of nano-crystalline diamond films grown under continuous DC bias during plasma enhanced chemical vapor deposition**
 Mortet V., Zhang L., Echert M., Soltani A., d' Haen J., Douheret O., Moreau M., Osswald S., Neyts E., Troadec D., Wagner P., Bogaerts A., Van Tendeloo G., Haenen K.
 Materials Research Society symposium proceedings (2009).
@@ -671,7 +671,7 @@ Carbon 47, 1028 (2009).
 Neyts E.C., Bogaerts A.
 J Phys Chem C 113, 2771 (2009).
 
-##2008
+## 2008
 **Study of atmospheric MOCVD of TiO2 thin films by means of computational fluid dynamics simulations**
 Baguer N., Neyts E., van Gils S., Bogaerts A.
 Chem Vapor Depos 14, 339 (2008).
@@ -684,7 +684,7 @@ Chem Vapor Depos 14, 213 (2008).
 Eckert M., Neyts E., Bogaerts A.
 J Phys D Appl Phys 41, 032006 (2008).
 
-##2007
+## 2007
 **Reaction mechanisms and thin a-C:H film growth from low energy hydrocarbon radicals**
 Neyts E., Bogaerts A., van de Sanden M.C.M.
 Journal of physics : conference series 86, 12020 (2007).
@@ -697,7 +697,7 @@ Chem Vapor Depos 13, 312 (2007).
 Neyts E., Bogaerts A., de Meyer M., van Gils S.
 Surf Coat Tech 201, 8838 (2007).
  
-##2006
+## 2006
 **The effect of hydrogen on the electronic and bonding properties of amorphous carbon**
 Titantah J.T., Lamoen D., Neyts E., Bogaerts A.
 J Phys-Condens Mat 18, 10803 (2006).
@@ -730,7 +730,7 @@ Plasma Process Polym 3, 110 (2006).
 Neyts E., Bogaerts A., van de Sanden M.C.M.
 J Appl Phys 99, 014902 (2006).
 
-##2005
+## 2005
 **Numerical modeling for a better understanding of gas discharge plasmas**
 Bogaerts A., de Bleecker K., Georgieva V., Herrebout D., Kolev I., Madani M., Neyts E.
 High Temp Mater P-Us 9, 321 (2005).
@@ -740,12 +740,12 @@ High Temp Mater P-Us 9, 321 (2005).
 Neyts E., Bogaerts A., Gijbels R., Benedikt J., van de Sanden M.C.M.
 Nucl Instrum Meth B 228, 315 (2005).
 
-##2004
+## 2004
 **Molecular dynamics simulations for the growth of diamond-like carbon films from low kinetic energy species**
 Neyts E., Bogaerts A., Gijbels R., Benedikt J., van den Sanden M.C.M.
 Diam Relat Mater 13, 1873 (2004).
 
-##2003
+## 2003
 **Particle-in-cell/Monte Carlo simulations of a low-pressure capacitively coupled radio-frequency discharge: effect of adding H2 to an Ar discharge**
 Neyts E., Yan M., Bogaerts A., Gijbels R.
 J Appl Phys 93, 5025 (2003).
@@ -754,7 +754,7 @@ J Appl Phys 93, 5025 (2003).
 Neyts E., Yan M., Bogaerts A., Gijbels R.
 Nucl Instrum Meth B 202, 300 (2003).
  
-##2002
+## 2002
 **Gas discharge plasmas and their applications**
 Bogaerts A., Neyts E., Gijbels R., van der Mullen J.
 Spectrochim Acta B 57, 609 (2002).
