@@ -34,8 +34,8 @@ div.c {
 
 <div class="b">
 
-<h1>2021</h1>
-<h2>Entropic and enthalpic factors determining the thermodynamics and kinetics of carbon segregation from transition metal nanoparticles</h2>
+<h2>2021</h1>
+<b>Entropic and enthalpic factors determining the thermodynamics and kinetics of carbon segregation from transition metal nanoparticles</b>
 Fukuhara S., Bal K.M., Neyts E.C., Shibuta Y.
 Carbon 171, 806 (2021).
 </div>
