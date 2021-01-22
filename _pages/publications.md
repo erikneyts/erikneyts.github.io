@@ -14,9 +14,7 @@ header:
   caption: "Photo credit: [pngtree](https://www.pinterest.co.uk/pin/403283341624204549/)"
 ---
 
-<p style="font-size: 24px;">A text with size 24px</font></p>
-<p style="font-size: 12px;">A text with size 12px</font></p>
-
+<p style="font-size: 24px;">
 
 ## 2021
 **Entropic and enthalpic factors determining the thermodynamics and kinetics of carbon segregation from transition metal nanoparticles**  
@@ -31,7 +29,8 @@ Carbon 171, 72 (2021).
 **On the kinetics and equilibria of plasma-based dry reforming of methane**  
 Uytdenhouwen Y, Bal K, Neyts E, Meynen V, Cool P, Bogaerts A
 126630 (2021).
- 
+
+</p>
 
 ## 2020
 **Free energy barriers from biased molecular dynamics simulations**  
