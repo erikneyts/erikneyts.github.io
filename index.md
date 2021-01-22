@@ -4,6 +4,7 @@ layout: single
 permalink: /
 hidden: true
 author_profile: true
+bio: "Full professor, Dept. Chemistry, University of Antwerp"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/masthead-image.jpg
