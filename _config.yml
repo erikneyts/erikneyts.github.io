@@ -69,8 +69,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Erik C. Neyts"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Mosaic"
+  avatar : "/assets/images/logo.jpg"
   bio    : "Full professor, Dept. Chemistry, University of Antwerp"
   links:
     - label: "UAntwerp"
