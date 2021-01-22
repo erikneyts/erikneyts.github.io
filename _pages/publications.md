@@ -197,7 +197,7 @@ Nanotechnology 28, 04LT01 (2017).<br><br>
 <b>Effect of electric fields on plasma catalytic hydrocarbon oxidation from atomistic simulations</b><br>
 Neyts E.C., Bal K.M.<br>
 Plasma Process Polym 14, e1600158 (2017).<br><br>
-<b>Molecular Dynamics Simulations for Plasma-Surface Interactions: Molecular Dynamics Simulations…</b><br>
+<b>Molecular Dynamics Simulations for Plasma-Surface Interactions</b><br>
 Neyts E.C., Brault P.<br>
 Plasma Process Polym 14, 1600145 (2017).<br><br>
 <h2>2016</h2>
@@ -210,10 +210,10 @@ Plasma Sources Sci T 25, 053002 (2016).<br><br>
 <b>How Oxygen Vacancies Activate CO<sub>2</sub> Dissociation on TiO<sub>2</sub> Anatase (001)</b><br>
 Huygh S., Bogaerts A., Neyts E.C.<br>
 J Phys Chem C 120, 21659 (2016).<br><br>
-<b>Elucidating the effects of gas flow rate on an SF6inductively coupled plasma and on the silicon etch rate, by a combined experimental and theoretical investigation</b><br>
+<b>Elucidating the effects of gas flow rate on an SF<sub>6</sub> inductively coupled plasma and on the silicon etch rate, by a combined experimental and theoretical investigation</b><br>
 Tinck S., Tillocher T., Dussart R., Neyts E.C., Bogaerts A.<br>
 J Phys D Appl Phys 49, 385201 (2016).<br><br>
-<b>Van der Waals density functionals applied to corundum-type sesquioxides : bulk properties and adsorption of CH3 and C6H6 on (0001) surfaces</b><br>
+<b>Van der Waals density functionals applied to corundum-type sesquioxides : bulk properties and adsorption of CH<sub>3</sub> and C<sub>6</sub>H<sub>6</sub> on (0001) surfaces</b><br>
 Dabaghmanesh S., Neyts E.C., Partoens B.<br>
 Phys Chem Chem Phys 18, 23139 (2016).<br><br>
 <b>Direct observation of realistic-temperature fuel combustion mechanisms in atomistic simulations</b><br>
@@ -394,13 +394,13 @@ Journal of physics : conference series 399, 012011 (2012).<br><br>
 <b>Atomic-scale simulations of reactive oxygen plasma species interacting with bacterial cell walls</b><br>
 Yusupov M., Neyts E.C., Khalilov U., Snoeckx R., van Duin A.C.T., Bogaerts A.<br>
 New J Phys 14, 093043 (2012).<br><br>
-<b>On the c-Si\mid a-SiO2 interface in hyperthermal Si oxidation at room temperature</b><br>
+<b>On the c-Si\mid a-SiO<sub>2</sub> interface in hyperthermal Si oxidation at room temperature</b><br>
 Khalilov U., Pourtois G., van Duin A.C.T., Neyts E.C.<br>
 J Phys Chem C 116, 21856 (2012).<br><br>
 <b>Plasma species interacting with nickel surfaces : toward an atomic scale understanding of plasma-catalysis</b><br>
 Somers W., Bogaerts A., van Duin A.C.T., Neyts E.C.<br>
 J Phys Chem C 116, 20958 (2012).<br><br>
-<b>Grain size tuning of nanocrystalline chemical vapor deposited diamond by continuous electrical bias growth : experimental and theoretical study</b><br>
+<b>Grain size tuning of nanocrystalline chemical vapor deposited diamond by continuous electrical bias growth: experimental and theoretical study</b><br>
 Mortet V., Zhang L., Eckert M., D'Haen J., Soltani A., Moreau M., Troadec D., Neyts E., De Jaeger J.C., Verbeeck J., Bogaerts A., Van Tendeloo G., Haenen K., Wagner P.<br>
 Phys Status Solidi A 209, 1675 (2012).<br><br>
 <b>Self-limiting oxidation in small-diameter Si nanowires</b><br>
@@ -412,16 +412,16 @@ J Chem Theory Comput 8, 1865 (2012).<br><br>
 <b>Modeling the growth of SWNTs and graphene on the atomic scale</b><br>
 Neyts E.C., Bogaerts A.<br>
 ECS transactions 45, 73 (2012).<br><br>
-<b>PECVD growth of carbon nanotubes : from experiment to simulation</b><br>
+<b>PECVD growth of carbon nanotubes: from experiment to simulation</b><br>
 Neyts E.C.<br>
 Journal of vacuum science and technology: B: micro-electronics processing and phenomena 30, 030803 (2012).<br><br>
 <b>Uniform-acceptance force-bias Monte Carlo method with time scale to study solid-state diffusion</b><br>
 Mees M.J., Pourtois G., Neyts E.C., Thijsse B.J., Stesmans A.<br>
 Phys Rev B 85, 134301 (2012).<br><br>
-<b>Hyperthermal oxidation of Si(100)2x1 surfaces : effect of growth temperature</b><br>
+<b>Hyperthermal oxidation of Si(100)2x1 surfaces: effect of growth temperature</b><br>
 Khalilov U., Pourtois G., van Duin A.C.T., Neyts E.C.<br>
 J Phys Chem C 116, 8649 (2012).<br><br>
-<b>Insights in the plasma-assisted growth of carbon nanotubes through atomic scale simulations : effect of electric field</b><br>
+<b>Insights in the plasma-assisted growth of carbon nanotubes through atomic scale simulations: effect of electric field</b><br>
 Neyts E.C., van Duin A.C.T., Bogaerts A.<br>
 J Am Chem Soc 134, 1256 (2012).<br><br>
 <b>Modeling aspects of plasma-enhanced chemical vapor deposition of carbon-based materials</b><br>
@@ -431,13 +431,13 @@ CRC Press, Boca Raton, Fla, Plasma processing of nanomaterials / Sankaran, R.M. 
 <b>Can we control the thickness of ultrathin silica layers by hyperthermal silicon oxidation at room temperature?</b><br> 
 Khalilov U., Neyts E.C., Pourtois G., van Duin A.C.T.<br>
 J Phys Chem C 115, 24839 (2011).<br><br>
-<b>Changing chirality during single-walled carbon nanotube growth : a reactive molecular dynamics/Monte Carlo study</b><br>
+<b>Changing chirality during single-walled carbon nanotube growth: a reactive molecular dynamics/Monte Carlo study</b><br>
 Neyts E.C., van Duin A.C.T., Bogaerts A.<br>
 J Am Chem Soc 133, 17225 (2011).<br><br>
 <b>Computer modelling of the plasma chemistry and plasma-based growth mechanisms for nanostructured materials</b><br>
 Bogaerts A., Eckert M., Mao M., Neyts E.<br>
 J Phys D Appl Phys 44, 174030 (2011).<br><br>
-<b>Hyperthermal oxygen interacting with silicon surfaces : adsorption, implantation, and damage creation</b><br>
+<b>Hyperthermal oxygen interacting with silicon surfaces: adsorption, implantation, and damage creation</b><br>
 Neyts E.C., Khalilov U., Pourtois G., van Duin A.C.T.<br>
 J Phys Chem C 115, 4818 (2011).<br><br>
 <b>Theoretical investigation of grain size tuning during prolonged bias-enhanced nucleation</b><br>
