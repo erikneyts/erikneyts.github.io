@@ -124,7 +124,8 @@ Surf Sci 672-673, 39 (2018).<br><br>
 <b>Effect of plasma-induced surface charging on catalytic processes: application to CO2activation</b><br>
 Bal K.M., Huygh S., Bogaerts A., Neyts E.C.<br>
 Plasma Sources Sci T 27, 024001 (2018).<br><br>
-<b>Catalyst preparation with plasmas : how does it work?<b> Wang Z., Zhang Y., Neyts E.C., Cao X., Zhang X., Jang B.W.-L., Liu C.-jun<br>
+<b>Catalyst preparation with plasmas : how does it work?</b><br>
+Wang Z., Zhang Y., Neyts E.C., Cao X., Zhang X., Jang B.W.-L., Liu C.-jun<br>
 Acs Catal 8, 2093 (2018).<br><br>
 <b>A comparative DFT study on CO oxidation reaction over Si-doped BC2N nanosheet and nanotube</b><br>
 Nematollahi P., Neyts E.C.<br>
