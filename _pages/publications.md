@@ -38,14 +38,17 @@ div.c {
 
 <div class="c">This is some text.</div>
 
-</body>
-</html>
-
+<div class="b">
 
 ## 2021
 **Entropic and enthalpic factors determining the thermodynamics and kinetics of carbon segregation from transition metal nanoparticles**  
 Fukuhara S., Bal K.M., Neyts E.C., Shibuta Y.
 Carbon 171, 806 (2021).
+
+</div>
+
+</body>
+</html>
  
 
 **Mechanisms of selective nanocarbon synthesis inside carbon nanotubes**  
