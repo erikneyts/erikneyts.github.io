@@ -33,20 +33,17 @@ div.c {
 
 
 <div class="b">
-
 <h2>2021</h2>
-<b>Entropic and enthalpic factors determining the thermodynamics and kinetics of carbon segregation from transition metal nanoparticles</b>
-Fukuhara S., Bal K.M., Neyts E.C., Shibuta Y.
-Carbon 171, 806 (2021).
-</div>
+<b>Entropic and enthalpic factors determining the thermodynamics and kinetics of carbon segregation from transition metal nanoparticles</b><br>  
+Fukuhara S., Bal K.M., Neyts E.C., Shibuta Y.<br>
+Carbon 171, 806 (2021). <br> 
 
+<b>Mechanisms of selective nanocarbon synthesis inside carbon nanotubes</b>  <br> 
+Khalilov U., Neyts E.C.<br> 
+Carbon 171, 72 (2021).<br> 
+</div>
 </body>
 </html>
- 
-
-**Mechanisms of selective nanocarbon synthesis inside carbon nanotubes**  
-Khalilov U., Neyts E.C.
-Carbon 171, 72 (2021).
  
 **On the kinetics and equilibria of plasma-based dry reforming of methane**  
 Uytdenhouwen Y, Bal K, Neyts E, Meynen V, Cool P, Bogaerts A
