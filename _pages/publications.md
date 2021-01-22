@@ -47,7 +47,7 @@ J Chem Phys 153, 114118 (2020).<br><br>
 <b>Predicted Influence of Plasma Activation on Nonoxidative Coupling of Methane on Transition Metal Catalysts</b><br>
 Engelmann Y, Mehta P, Neyts EC, Schneider WF, Bogaerts A<br>
 ACS Sustainable Chem Eng 8, 6043–6054 (2020).<br><br>
-<b>Activation of CO2on Copper Surfaces: The Synergy between Electric Field, Surface Morphology, and Excess Electrons</b><br>
+<b>Activation of CO<sub>2</sub> on Copper Surfaces: The Synergy between Electric Field, Surface Morphology, and Excess Electrons</b><br>
 Jafarzadeh A., Bal K.M., Bogaerts A., Neyts E.C.<br>
 J Phys Chem C 124, 6747 (2020).<br><br>
 <b>Accelerated molecular dynamics simulation of large systems with parallel collective variable-driven hyperdynamics</b><br>
@@ -59,7 +59,7 @@ J Phys Chem Lett 11, 401 (2020).<br><br>
 <b>Effect of van der Waals interactions on the adhesion strength at the interface of the hydroxyapatite-titanium biocomposite : a first-principles study</b><br>
 Grubova I.Y., Surmeneva M.A., Surmenev R.A., Neyts E.C.<br>
 RSC advances 10, 37800 (2020).<br><br>
-<b>Direct oxidation of methane to methanol on Co embedded N-doped graphene: Comparing the role of N₂O and O₂ as oxidants</b><br>
+<b>Direct oxidation of methane to methanol on Co embedded N-doped graphene: Comparing the role of N<sub>2</sub>O and O<sub>2</sub> as oxidants</b><br>
 Nematollahi P., Neyts E.C.<br>
 Appl Catal A-Gen 602, 117716 (2020).<br><br>
 <h2>2019</h2>
@@ -72,7 +72,7 @@ Carbon 153, 1 (2019).<br><br>
 <b>Special Issue on future directions in plasma nanoscience</b><br>
 Neyts E.C.<br>
 Front Chem Sci Eng 13, 199 (2019).<br><br>
-<b>How process parameters and packing materials tune chemical equilibrium and kinetics in plasma-based CO2 conversion</b><br>
+<b>How process parameters and packing materials tune chemical equilibrium and kinetics in plasma-based CO<sub>2</sub> conversion</b><br>
 Uytdenhouwen Y., Bal K., Michielsen I., Neyts E., Meynen V., Cool P., Bogaerts A.<br>
 Chem Eng J 372, 1253 (2019).<br><br>
 <b>A route towards the fabrication of 2D heterostructures using atomic layer etching combined with selective conversion</b><br>
@@ -84,7 +84,7 @@ Front Chem Sci Eng 13, 324 (2019).<br><br>
 <b>Overcoming Old Scaling Relations and Establishing New Correlations in Catalytic Surface Chemistry: Combined Effect of Charging and Doping</b><br>
 Bal K.M., Neyts E.C.<br>
 J Phys Chem C 123, 6141 (2019).<br><br>
-<b>CO2 activation on TiO2-supported Cu5 and Ni5 nanoclusters : effect of plasma-induced surface charging</b><br>
+<b>CO<sub>2</sub> activation on TiO<sub>2</sub>-supported Cu<sub>5</sub> and Ni<sub>5</sub> nanoclusters : effect of plasma-induced surface charging</b><br>
 Jafarzadeh A., Bal K.M., Bogaerts A., Neyts E.C.<br>
 J Phys Chem C 123, 6516 (2019).<br><br>
 <b>Molecular evidence for feedstock-dependent nucleation mechanisms of CNTs</b><br>
@@ -94,7 +94,7 @@ Nanoscale Horiz. 4, 674 (2019).<br><br>
 Grubova I.Y., Surmeneva M.A., Huygh S., Surmenev R.A., Neyts E.C.<br>
 Comp Mater Sci 159, 228 (2019).<br><br>
 <h2>2018</h2>
-<b>Thermal recrystallization of short-range ordered WS2 films</b><br>
+<b>Thermal recrystallization of short-range ordered WS<sub>2</sub> films</b><br>
 Heyne M.H., de Marneffe J.-F., Radu I., Neyts E.C., De Gendt S.<br>
 J Vac Sci Technol A 36, 05g501 (2018).<br><br>
 <b>Understanding the Effect of Iodide Ions on the Morphology of Gold Nanorods</b><br>
@@ -106,41 +106,41 @@ Carbon 137, 527 (2018).<br><br>
 <b>Enhancement of plasma generation in catalyst pores with different shapes</b><br>
 Zhang Y.-R., Neyts E.C., Bogaerts A.<br>
 Plasma Sources Sci T 27, 055008 (2018).<br><br>
-<b>High Coke Resistance of a TiO2Anatase (001) Catalyst Surface during Dry Reforming of Methane</b><br>
+<b>High Coke Resistance of a TiO<sub>2</sub> Anatase (001) Catalyst Surface during Dry Reforming of Methane</b><br>
 Huygh S., Bogaerts A., Bal K.M., Neyts E.C.<br>
 J Phys Chem C 122, 9389 (2018).<br><br>
 <b>Plasma Technology: An Emerging Technology for Energy Storage</b><br>
 Bogaerts A., Neyts E.C.<br>
 Acs Energy Lett 3, 1013 (2018).<br><br>
-<b>The conversion mechanism of amorphous silicon to stoichiometric WS2</b><br>
+<b>The conversion mechanism of amorphous silicon to stoichiometric WS<sub>2</sub></b><br>
 Heyne M.H., de Marneffe J.-F., Nuytten T., Meersschaut J., Conard T., Caymax M., Radu I., Delabie A., Neyts E.C., De Gendt S.<br>
 J Mater Chem C 6, 4122 (2018).<br><br>
 <b>Modelling molecular adsorption on charged or polarized surfaces: a critical flaw in common approaches</b><br>
 Bal K.M., Neyts E.C.<br>
 Phys Chem Chem Phys 20, 8456 (2018).<br><br>
-<b>The role of healed N-vacancy defective BC2N sheet and nanotube by NO molecule in oxidation of NO and CO gas molecules</b><br>
+<b>The role of healed N-vacancy defective BC<sub>2</sub>N sheet and nanotube by NO molecule in oxidation of NO and CO gas molecules</b><br>
 Nematollahi P., Esrafili M.D., Neyts E.C.<br>
 Surf Sci 672-673, 39 (2018).<br><br>
-<b>Effect of plasma-induced surface charging on catalytic processes: application to CO2activation</b><br>
+<b>Effect of plasma-induced surface charging on catalytic processes: application to CO<sub>2</sub> activation</b><br>
 Bal K.M., Huygh S., Bogaerts A., Neyts E.C.<br>
 Plasma Sources Sci T 27, 024001 (2018).<br><br>
 <b>Catalyst preparation with plasmas : how does it work?</b><br>
 Wang Z., Zhang Y., Neyts E.C., Cao X., Zhang X., Jang B.W.-L., Liu C.-jun<br>
 Acs Catal 8, 2093 (2018).<br><br>
-<b>A comparative DFT study on CO oxidation reaction over Si-doped BC2N nanosheet and nanotube</b><br>
+<b>A comparative DFT study on CO oxidation reaction over Si-doped BC<sub>2</sub>N nanosheet and nanotube</b><br>
 Nematollahi P., Neyts E.C.<br>
 Appl Surf Sci 439, 934 (2018).<br><br>
 <b>Atomistic simulations of plasma catalytic processes</b><br>
 Neyts E.C.<br>
 Front Chem Sci Eng 12, 145 (2018).<br><br>
 <h2>2017</h2>
-<b>The formation of Cr2O3 nanoclusters over graphene sheet and carbon nanotubes</b><br>
+<b>The formation of Cr<sub>2</sub>O<sub>3</sub> nanoclusters over graphene sheet and carbon nanotubes</b><br>
 Dabaghmanesh S., Neek-Amal M., Partoens B., Neyts E.C.<br>
 Chem Phys Lett 687, 188 (2017).<br><br>
 <b>Atomistic simulations of graphite etching at realistic time scales</b><br>
 Aussems D.U.B., Bal K. M., Morgan T.W., van de Sanden M.C.M., Neyts E.C.<br>
 Chem Sci 8, 7160 (2017).<br><br>
-<b>A first principles study of p-type defects in LaCrO3</b><br>
+<b>A first principles study of p-type defects in LaCrO<sub>3</sub></b><br>
 Dabaghmanesh S., Sarmadian N., Neyts E.C., Partoens B.<br>
 Phys Chem Chem Phys 19, 22870 (2017).<br><br>
 <b>Effect of head group and lipid tail oxidation in the cell membrane revealed through integrated simulations and experiments</b><br>
@@ -164,7 +164,7 @@ Plasma Process Polym 14, 1700013 (2017).<br><br>
 <b>Nanoscale mechanisms of CNT growth and etching in plasma environment</b><br>
 Khalilov U., Bogaerts A., Hussain S., Kovacevic E., Brault P., Boulmer-Leborgne C., Neyts E.C.<br>
 J Phys D Appl Phys 50, 184001 (2017).<br><br>
-<b>Concurrent effects of wafer temperature and oxygen fraction on cryogenic silicon etching with SF6/O2plasmas</b><br>
+<b>Concurrent effects of wafer temperature and oxygen fraction on cryogenic silicon etching with SF<sub>6</sub>/O<sub>2</sub> plasmas</b><br>
 Tinck S., Tillocher T., Georgieva V., Dussart R., Neyts E., Bogaerts A.<br>
 Plasma Process Polym 14, 1700018 (2017).<br><br>
 <b>Atomic-scale mechanisms of plasma-assisted elimination of nascent base-grown carbon nanotubes</b><br>
@@ -207,7 +207,7 @@ J Phys Chem C 120, 25923 (2016).<br><br>
 <b>Plasma–liquid interactions: a review and roadmap</b><br>
 Bruggeman P.J., Kushner M.J., Locke B.R., Gardeniers J.G.E., Graham W.G., Graves D.B., Hofman-Caris R.C.H.M., Maric D., Reid J.P., Ceriani E., Fernandez Rivas D., Foster J.E., Garrick S.C., Gorbanev Y., Hamaguchi S., Iza F., Jablonowski H., Klimova E., Kolb J., Krcma F., Lukes P., Machala Z., Marinov I., Mariotti D., Mededovic Thagard S., Minakata D., Neyts E.C., Pawlat J., Petrovic Z.L., Pflieger R., Reuter S., Schram D.C., Schröter S., Shiraiwa M., Tarabová B., Tsai P.A., Verlet J.R.R., von Woedtke T., Wilson K.R., Yasui K., Zvereva G.<br>
 Plasma Sources Sci T 25, 053002 (2016).<br><br>
-<b>How Oxygen Vacancies Activate CO2 Dissociation on TiO2 Anatase (001)</b><br>
+<b>How Oxygen Vacancies Activate CO<sub>2</sub> Dissociation on TiO<sub>2</sub> Anatase (001)</b><br>
 Huygh S., Bogaerts A., Neyts E.C.<br>
 J Phys Chem C 120, 21659 (2016).<br><br>
 <b>Elucidating the effects of gas flow rate on an SF6inductively coupled plasma and on the silicon etch rate, by a combined experimental and theoretical investigation</b><br>
@@ -488,13 +488,13 @@ Carbon 47, 1028 (2009).<br><br>
 Neyts E.C., Bogaerts A.<br>
 J Phys Chem C 113, 2771 (2009).<br><br>
 <h2>2008</h2>
-<b>Study of atmospheric MOCVD of TiO2 thin films by means of computational fluid dynamics simulations</b><br>
+<b>Study of atmospheric MOCVD of TiO<sub>2</sub> thin films by means of computational fluid dynamics simulations</b><br>
 Baguer N., Neyts E., van Gils S., Bogaerts A.<br>
 Chem Vapor Depos 14, 339 (2008).<br><br>
 <b>Molecular dynamics simulations of the sticking and etch behavior of various growth species of (ultra)nanocrystalline diamond films</b><br>
 Eckert M., Neyts E., Bogaerts A.<br>
 Chem Vapor Depos 14, 213 (2008).<br><br>
-<b>On the reaction behaviour of hydrocarbon species at diamond (1 0 0) and (1 1 1) surfaces: a molecular dynamics investigation</b><br>
+<b>On the reaction behaviour of hydrocarbon species at diamond (100) and (111) surfaces: a molecular dynamics investigation</b><br>
 Eckert M., Neyts E., Bogaerts A.<br>
 J Phys D Appl Phys 41, 032006 (2008).<br><br>
 <h2>2007</h2>
