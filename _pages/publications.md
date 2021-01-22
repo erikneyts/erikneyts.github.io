@@ -7,7 +7,7 @@ permalink: /publications/
 hidden: true
 author_profile: true
 tagline: ""
-font-size: $type-size-4;
+font-size: 1.00em
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/masthead-image.jpg
