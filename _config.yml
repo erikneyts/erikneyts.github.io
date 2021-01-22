@@ -95,17 +95,16 @@ defaults:
       layout: single
       author_profile: true
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author: "Mosaic"
-      author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: true
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: false
+#      comments: false
+#      share: false
+#      related: true
 
 #category_archive:
 #  type: liquid
