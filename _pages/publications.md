@@ -37,7 +37,7 @@ div.c {
 <b>Entropic and enthalpic factors determining the thermodynamics and kinetics of carbon segregation from transition metal nanoparticles</b><br>  
 Fukuhara S., Bal K.M., Neyts E.C., Shibuta Y.<br>
 Carbon 171, 806 (2021). <br> 
-
+<br> 
 <b>Mechanisms of selective nanocarbon synthesis inside carbon nanotubes</b>  <br> 
 Khalilov U., Neyts E.C.<br> 
 Carbon 171, 72 (2021).<br> 
