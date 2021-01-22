@@ -5,6 +5,13 @@ permalink: /
 hidden: true
 author_profile: true
 bio: "Full professor, Dept. Chemistry, University of Antwerp"
+links:
+  - label: "UAntwerp"
+    icon: "fas fa-fw fa-link"
+    url: "https://www.uantwerpen.be/en/staff/erik-neyts/"
+  - label: "Orcid"
+    icon: "fab fa-fw fa-orcid"
+    url: "https://orcid.org/0000-0002-3360-3196"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/masthead-image.jpg
