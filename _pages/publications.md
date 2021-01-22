@@ -7,6 +7,10 @@ permalink: /publications/
 hidden: true
 author_profile: true
 tagline: ""
+.page__lead {
+  font-family: $global-font-family;
+  font-size: $type-size-4;
+}
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/masthead-image.jpg
