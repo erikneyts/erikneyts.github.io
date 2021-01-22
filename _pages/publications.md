@@ -65,7 +65,7 @@ Appl Catal A-Gen 602, 117716 (2020).
 
 
 ## 2019
-**Direct methane conversion to methanol on M and MN<sup>4</sup> embedded graphene (M = Ni and Si): a comparative DFT study**  
+**Direct methane conversion to methanol on M and MN<sub>4</sub> embedded graphene (M = Ni and Si): a comparative DFT study**  
 Nematollahi P., Neyts E.C.
 Appl Surf Sci 496, 143618 (2019).
  
