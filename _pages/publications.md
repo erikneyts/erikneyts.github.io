@@ -13,7 +13,6 @@ header:
   caption: "Photo credit: [pngtree](https://www.pinterest.co.uk/pin/403283341624204549/)"
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
