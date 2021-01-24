@@ -17,7 +17,9 @@ header:
   overlay_image: /assets/images/masthead-image.jpg
   caption: "Photo credit: [pngtree](https://www.pinterest.co.uk/pin/403283341624204549/)"
 ---
+
 {% include figure image_path="/assets/images/Frontimage.jpg" %}
+
 Welcome to my non-Departmental webpage and home of the Mosaic research team!
 
 The Mosaic team is a subdivision of the [PLASMANT](https://www.uantwerpen.be/en/research-groups/plasmant/) research group at the Department of Chemistry, University of Antwerp. We use molecular scale simulations to unravel reaction mechanisms in plasma-surface and gas-surface interactions, growth and modification of nanomaterials, and astrochemistry.
