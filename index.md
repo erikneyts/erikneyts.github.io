@@ -17,8 +17,6 @@ header:
   overlay_image: /assets/images/masthead-image.jpg
   caption: "Photo credit: [pngtree](https://www.pinterest.co.uk/pin/403283341624204549/)"
 ---
-
-# {% include figure image_path="/assets/images/Frontimage.jpg" %}
 ![image-center](/assets/images/Frontimage.jpg){: .align-center}
 
 Welcome to my non-Departmental webpage and home of the Mosaic research team!
