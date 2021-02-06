@@ -54,8 +54,8 @@ CV</a><br>
 ...<br>
 CV</a><br> 
 
-<h2> Ph.D. students </h3>
-<h3>Fahim Faraji</h2>
+<h2> Ph.D. students </h2>
+<h3>Fahim Faraji</h3>
 ...<br>
 CV</a><br>
 
