@@ -37,7 +37,7 @@ Team leader of the Mosaic team. I focus on the application of atomic scale simul
 I teach courses on general chemistry, thermodynamics and dynamic processes at surfaces.<br>
 <a href="/assets/images/CV-ErikNeyts-Feb2021.pdf">CV</a><br>
   
-<h2> Postdocs </h2>  
+<h2 style="color:red;"> Postdocs </h2>
 <h3>Dr. Kristof M. Bal</h3>
 ...<br>
 <a href="">CV</a><br>  
