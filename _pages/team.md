@@ -40,55 +40,50 @@ I teach courses on general chemistry, thermodynamics and dynamic processes at su
 <h2> Postdocs </h2>  
 <h3>Dr. Kristof M. Bal</h3>
 ...<br>
-CV</a><br>  
+<a href="">CV</a><br>  
 
 <h3>Dr. Parisa Nematollahi</h3>
 ...<br>
-CV</a><br> 
+<a href="">CV</a><br>  
 
 <h3>Dr. Yannick Engelmann</h3>
 ...<br>
-CV</a><br> 
+<a href="">CV</a><br>  
 
 <h3>Dr. Abhijit Gogoi</h3>
 ...<br>
-CV</a><br> 
+<a href="">CV</a><br> 
 
 <h2> Ph.D. students </h2>
 <h3>Fahim Faraji</h3>
 ...<br>
-CV</a><br>
+<a href="">CV</a><br> 
 
 <h3>Attila Kovac</h3>
 ...<br>
-CV</a><br>
+<a href="">CV</a><br> 
 
 <h2> Joint Ph.D. students </h2>
 <h3>Mohammad Eb Izadi</h3>
 ...<br>
-CV</a><br>
+<a href="">CV</a><br> 
 
 <h2> Graduate students </h2>
 <h3>Indy Verhoeven</h3>
 ...<br>
-CV</a><br>
 
 <h3>Elise Helsen</h3>
 ...<br>
-CV</a><br>
 
 <h3>Arno Van Laer</h3>
 ...<br>
-CV</a><br>
 
 <h2> Undergrad students </h2>
 <h3>Selim Baleci</h3>
 ...<br>
-CV</a><br>
 
 <h3>Quinten den Toom</h3>
 ...<br>
-CV</a><br>
 
 </div>
 </body>
