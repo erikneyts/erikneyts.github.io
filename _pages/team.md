@@ -22,7 +22,7 @@ div.b {
   font-size: large;
 }
 div.c {
-  font-size: 80%;
+ font-size: 80%;
 }
 div.d {
   font-size: 0.875em;
@@ -36,6 +36,59 @@ div.d {
 Team leader of the Mosaic team. I focus on the application of atomic scale simulations to gain insight in chemical reactions in the broad context of gas/surface interactions, including plasma/surface interactions in plasma catalysis, gas/surface interactions in materials science and gas/dust interactions in astrochemistry.<br>
 I teach courses on general chemistry, thermodynamics and dynamic processes at surfaces.<br>
 <a href="/assets/images/CV-ErikNeyts-Feb2021.pdf">CV</a><br>
+  
+<h2> Postdocs </h2>  
+<h3>Dr. Kristof M. Bal</h3>
+...<br>
+CV</a><br>  
+
+<h3>Dr. Parisa Nematollahi</h3>
+...<br>
+CV</a><br> 
+
+<h3>Dr. Yannick Engelmann</h3>
+...<br>
+CV</a><br> 
+
+<h3>Dr. Abhijit Gogoi</h3>
+...<br>
+CV</a><br> 
+
+<h2> Ph.D. students </h3>
+<h3>Fahim Faraji</h2>
+...<br>
+CV</a><br>
+
+<h3>Attila Kovac</h3>
+...<br>
+CV</a><br>
+
+<h2> Joint Ph.D. students </h2>
+<h3>Mohammad Eb Izadi</h3>
+...<br>
+CV</a><br>
+
+<h2> Undergrad students </h2>
+<h3>Indy Verhoeven</h3>
+...<br>
+CV</a><br>
+
+<h3>Elise Helsen</h3>
+...<br>
+CV</a><br>
+
+<h3>Arno Van Laer</h3>
+...<br>
+CV</a><br>
+
+<h3>Selim Baleci</h3>
+...<br>
+CV</a><br>
+
+<h3>Quinten den Toom</h3>
+...<br>
+CV</a><br>
+
 </div>
 </body>
 </html>
