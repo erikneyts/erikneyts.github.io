@@ -33,3 +33,6 @@ div.c {
 Team leader of the Mosaic team. I focus on the application of atomic scale simulations to gain insight in chemical reactions in the broad context of gas/surface interactions, including plasma/surface interactions in plasma catalysis, gas/surface interactions in materials science and gas/dust interactions in astrochemistry.<br>
 I teach courses on general chemistry, thermodynamics and dynamic processes at surfaces.<br>
 [CV](/assets/images/CV-ErikNeyts-Feb2021.pdf)<br>
+</div>
+</body>
+</html>
