@@ -22,13 +22,16 @@ div.b {
   font-size: large;
 }
 div.c {
-  font-size: 150%;
+  font-size: 80%;
+}
+div.d {
+  font-size: 0.875em;
 }
 </style>
 </head>
 <body>
 
-<div class="b">
+<div class="c">
 <h2>Prof. Erik C. Neyts</h2>
 Team leader of the Mosaic team. I focus on the application of atomic scale simulations to gain insight in chemical reactions in the broad context of gas/surface interactions, including plasma/surface interactions in plasma catalysis, gas/surface interactions in materials science and gas/dust interactions in astrochemistry.<br>
 I teach courses on general chemistry, thermodynamics and dynamic processes at surfaces.<br>
