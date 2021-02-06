@@ -68,7 +68,7 @@ CV</a><br>
 ...<br>
 CV</a><br>
 
-<h2> Undergrad students </h2>
+<h2> Graduate students </h2>
 <h3>Indy Verhoeven</h3>
 ...<br>
 CV</a><br>
@@ -81,6 +81,7 @@ CV</a><br>
 ...<br>
 CV</a><br>
 
+<h2> Undergrad students </h2>
 <h3>Selim Baleci</h3>
 ...<br>
 CV</a><br>
