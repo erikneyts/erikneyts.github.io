@@ -35,8 +35,9 @@ div.d {
 <h2>Prof. Erik C. Neyts</h2>
 Team leader of the Mosaic team. I focus on the application of atomic scale simulations to gain insight in chemical reactions in the broad context of gas/surface interactions, including plasma/surface interactions in plasma catalysis, gas/surface interactions in materials science and gas/dust interactions in astrochemistry.<br>
 I teach courses on general chemistry, thermodynamics and dynamic processes at surfaces.<br>
-<a href="/assets/images/CV-ErikNeyts-Feb2021.pdf">CV</a><br><br>
-  
+<a href="/assets/images/CV-ErikNeyts-Feb2021.pdf">CV</a><br>
+
+<br>
 <h1 style="color:crimson;"> Postdocs </h1>
 <h3>Dr. Kristof M. Bal</h3>
 ...<br>
@@ -54,6 +55,7 @@ I teach courses on general chemistry, thermodynamics and dynamic processes at su
 ...<br>
 <a href="">CV</a><br> 
 
+<br>
 <h1 style="color:crimson;"> Ph.D. students </h1>
 <h3>Fahim Faraji</h3>
 ...<br>
@@ -63,11 +65,13 @@ I teach courses on general chemistry, thermodynamics and dynamic processes at su
 ...<br>
 <a href="">CV</a><br> 
 
+<br>
 <h1 style="color:crimson;"> Joint Ph.D. students </h1>
 <h3>Mohammad Eb Izadi</h3>
 ...<br>
 <a href="">CV</a><br> 
 
+<br>
 <h1 style="color:crimson;"> Graduate students </h1>
 <h3>Indy Verhoeven</h3>
 ...<br>
@@ -78,6 +82,7 @@ I teach courses on general chemistry, thermodynamics and dynamic processes at su
 <h3>Arno Van Laer</h3>
 ...<br>
 
+<br>
 <h1 style="color:crimson;"> Undergrad students </h1>
 <h3>Selim Baleci</h3>
 ...<br>
