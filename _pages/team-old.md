@@ -2,7 +2,7 @@
 author: Mosaic
 layout: single
 title: "Team"
-permalink: /team/
+permalink: /team-old/
 hidden: true
 author_profile: true
 classes: wide
