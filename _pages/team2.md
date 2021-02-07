@@ -18,18 +18,23 @@ header:
 div.c {
  font-size: 80%;
 }
+div.d {
+  font-size: 65%;
+}
 </style>
 </head>
 
 <div class="row">
   <div class="column">
     <div class="card">
-      <div class="c">
       <img src="/assets/images/bio-photo.jpg" alt="Erik" style="width:100%">
       <div class="container">
+      <div class="c">
         <h2>Erik C. Neyts</h2>
         <p class="title">Team leader</p>
         <p>Permanent staff</p>
+      </div>
+      <div class="d">
         <p>erik.neyts@uantwerpen.be</p>
       </div>
       </div>
