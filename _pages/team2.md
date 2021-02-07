@@ -44,7 +44,7 @@ div.d {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/assets/images/Bal_personal_B.pdf" alt="Kristof" style="width:100%">
+      <img src="/assets/images/Kristof.jpg" alt="Kristof" style="width:100%">
       <div class="container">
       <div class="c">
         <h2>Kristof M. Bal</h2>
@@ -61,7 +61,7 @@ div.d {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/assets/images/Engelmann_personal.pdf" alt="Yannick" style="width:100%">
+      <img src="/assets/images/Yannick.jpg" alt="Yannick" style="width:100%">
       <div class="container">
       <div class="c">
         <h2>Yannick Engelmann</h2>
@@ -78,7 +78,7 @@ div.d {
   <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/assets/images/Parisah_Nematollahi_2020_personal.pdf" alt="Parisa" style="width:100%">
+      <img src="/assets/images/Parisa.jpg" alt="Parisa" style="width:100%">
       <div class="container">
       <div class="c">
         <h2>Parisa Nematollahi</h2>
