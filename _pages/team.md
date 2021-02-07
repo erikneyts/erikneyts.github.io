@@ -5,6 +5,7 @@ title: "Team"
 permalink: /team/
 hidden: true
 author_profile: true
+classes: wide
 tagline: ""
 header:
   overlay_color: "#5e616c"
