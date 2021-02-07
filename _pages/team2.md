@@ -30,7 +30,7 @@ div.d {
       <img src="/assets/images/bio-photo.jpg" alt="Erik" style="width:100%">
       <div class="container">
         <div class="c">
-          <h2>Erik C. Neyts</h2>
+          <h3>Erik C. Neyts</h3>
           <p class="title">Team leader</p>
           <p>Professor of Physical Chemistry</p>
         </div>
@@ -43,7 +43,7 @@ div.d {
       <img src="/assets/images/Kristof.jpg" alt="Kristof" style="width:100%">
       <div class="container">
       <div class="c">
-        <h2>Kristof M. Bal</h2>
+        <h3>Kristof M. Bal</h3>
         <p class="title">FWO postdoc</p>
         <p>Enhanced sampling of chemical reactions</p>
       </div>
@@ -56,7 +56,7 @@ div.d {
       <img src="/assets/images/Parisa.jpg" alt="Parisa" style="width:100%">
       <div class="container">
       <div class="c">
-        <h2>Parisa Nematollahi</h2>
+        <h3>Parisa Nematollahi</h3>
         <p class="title">FWO postdoc</p>
         <p>DFT simulations of surface chemistry</p>
       </div>
@@ -69,7 +69,7 @@ div.d {
       <img src="/assets/images/Yannick.jpg" alt="Yannick" style="width:100%">
       <div class="container">
       <div class="c">
-        <h2>Yannick Engelmann</h2>
+        <h3>Yannick Engelmann</h3>
         <p class="title">postdoc</p>
         <p>Microkinetic modeling of plasma catalysis</p>
       </div>
