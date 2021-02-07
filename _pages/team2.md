@@ -36,7 +36,7 @@ div.d {
       </div>
       <div class="d">
         <p>
-          <button class="button" href="mailto:erik.neyts@uantwerpen.be">Contact</button>
+          <a class="button" mailto:erik.neyts@uantwerpen.be">Contact</a>
         </p>
         <p>erik.neyts@uantwerpen.be</p>
       </div>
