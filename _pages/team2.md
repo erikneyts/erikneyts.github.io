@@ -13,15 +13,25 @@ header:
   caption: "Photo credit: [pngtree](https://www.pinterest.co.uk/pin/403283341624204549/)"
 ---
 
+<head>
+<style>
+div.c {
+ font-size: 80%;
+}
+</style>
+</head>
+
 <div class="row">
   <div class="column">
     <div class="card">
+      <div class="c">
       <img src="/assets/images/bio-photo.jpg" alt="Erik" style="width:100%">
       <div class="container">
         <h2>Erik C. Neyts</h2>
         <p class="title">Team leader</p>
         <p>Permanent staff</p>
         <p>erik.neyts@uantwerpen.be</p>
+      </div>
       </div>
     </div>
   </div>
