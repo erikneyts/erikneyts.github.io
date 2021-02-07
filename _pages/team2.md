@@ -4,6 +4,7 @@ layout: single
 title: "Team"
 hidden: true
 author_profile: true
+permalink: /team2/
 classes: wide
 tagline: ""
 header:
