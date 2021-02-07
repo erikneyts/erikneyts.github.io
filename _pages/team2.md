@@ -16,13 +16,12 @@ header:
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/assests/images/bio-photo.jpg" alt="Erik" style="width:100%">
+      <img src="/assets/images/bio-photo.jpg" alt="Erik" style="width:100%">
       <div class="container">
         <h2>Erik C. Neyts</h2>
         <p class="title">Team leader</p>
         <p>Permanent staff</p>
         <p>erik.neyts@uantwerpen.be</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
