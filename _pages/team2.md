@@ -29,14 +29,15 @@ div.d {
     <div class="card">
       <img src="/assets/images/bio-photo.jpg" alt="Erik" style="width:100%">
       <div class="container">
-      <div class="c">
-        <h2>Erik C. Neyts</h2>
-        <p class="title">Team leader</p>
-        <p>Professor of Physical Chemistry</p>
+        <div class="c">
+          <h2>Erik C. Neyts</h2>
+          <p class="title">Team leader</p>
+          <p>Professor of Physical Chemistry</p>
+        </div>
+      </div>
     </div>
   </div>
 
-<div class="row">
   <div class="column">
     <div class="card">
       <img src="/assets/images/Kristof.jpg" alt="Kristof" style="width:100%">
@@ -50,7 +51,6 @@ div.d {
     </div>
   </div>
 
-  <div class="row">
   <div class="column">
     <div class="card">
       <img src="/assets/images/Parisa.jpg" alt="Parisa" style="width:100%">
@@ -64,7 +64,6 @@ div.d {
     </div>
   </div>
 
-  <div class="row">
   <div class="column">
     <div class="card">
       <img src="/assets/images/Yannick.jpg" alt="Yannick" style="width:100%">
