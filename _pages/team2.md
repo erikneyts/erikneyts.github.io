@@ -41,41 +41,53 @@ div.d {
     </div>
   </div>
 
+<div class="row">
   <div class="column">
     <div class="card">
-      <img src="img2.jpg" alt="Mike2" style="width:100%">
+      <img src="/assets/images/Kristof.jpg" alt="Kristof" style="width:100%">
       <div class="container">
-        <h2>Mike Ross</h2>
-        <p class="title">Art Director</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+      <div class="c">
+        <h2>Kristof M. Bal</h2>
+        <p class="title">FWO postdoc</p>
+        <p>Enhanced sampling of chemical reactions</p>
+      </div>
+      <div class="d">
+        <p>kristof.bal@uantwerpen.be</p>
+      </div>
       </div>
     </div>
   </div>
 
+<div class="row">
   <div class="column">
     <div class="card">
-      <img src="img2.jpg" alt="Mike" style="width:100%">
+      <img src="/assets/images/Yannick.jpg" alt="Yannick" style="width:100%">
       <div class="container">
-        <h2>Mike Ross</h2>
-        <p class="title">Art Director</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+      <div class="c">
+        <h2>Yannick Engelmann</h2>
+        <p class="title">postdoc</p>
+        <p>Microkinetic modeling of plasma catalysis</p>
+      </div>
+      <div class="d">
+        <p>yannick.engelmann@uantwerpen.be</p>
+      </div>
       </div>
     </div>
   </div>
 
+  <div class="row">
   <div class="column">
     <div class="card">
-      <img src="img3.jpg" alt="John" style="width:100%">
+      <img src="/assets/images/Parisa.jpg" alt="Parisa" style="width:100%">
       <div class="container">
-        <h2>John Doe</h2>
-        <p class="title">Designer</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+      <div class="c">
+        <h2>Parisa Nematollahi</h2>
+        <p class="title">FWO postdoc</p>
+        <p>DFT simulations of surface chemistry</p>
+      </div>
+      <div class="d">
+        <p>parisa.nematollahi@uantwerpen.be</p>
+      </div>
       </div>
     </div>
   </div>
