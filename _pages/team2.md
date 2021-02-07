@@ -32,7 +32,7 @@ div.d {
       <div class="c">
         <h2>Erik C. Neyts</h2>
         <p class="title">Team leader</p>
-        <p>Permanent staff</p>
+        <p>Professor of Physical Chemistry (Department of Chemistry)</p>
       </div>
       <div class="d">
         <p>erik.neyts@uantwerpen.be</p>
