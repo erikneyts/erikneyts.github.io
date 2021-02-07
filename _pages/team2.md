@@ -35,9 +35,7 @@ div.d {
         <p>Professor of Physical Chemistry (Department of Chemistry)</p>
       </div>
       <a href="mailto:erik.neyts@uantwerpen.be">
-      <div class="d">
           <div class="button">Contact</div>
-      </div>
       </a>
       </div>
     </div>
