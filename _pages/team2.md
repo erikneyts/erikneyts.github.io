@@ -34,10 +34,11 @@ div.d {
         <p class="title">Team leader</p>
         <p>Professor of Physical Chemistry (Department of Chemistry)</p>
       </div>
+      <a href="mailto:erik.neyts@uantwerpen.be">
       <div class="d">
-          <div class="button" mailto:erik.neyts@uantwerpen.be">Contact</div>
-        <p>erik.neyts@uantwerpen.be</p>
+          <div class="button">Contact</div>
       </div>
+      </a>
       </div>
     </div>
   </div>
