@@ -20,7 +20,6 @@ header:
 ---
 
 <img src="/assets/images/Frontimage-new.jpg" alt="" class="center" width="800"/>
-#![image-center](/assets/images/Frontimage-new.jpg)
 
 Welcome to my non-Departmental webpage and home of the Mosaic research team!
 
