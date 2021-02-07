@@ -58,23 +58,6 @@ div.d {
     </div>
   </div>
 
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="/assets/images/Yannick.jpg" alt="Yannick" style="width:100%">
-      <div class="container">
-      <div class="c">
-        <h2>Yannick Engelmann</h2>
-        <p class="title">postdoc</p>
-        <p>Microkinetic modeling of plasma catalysis</p>
-      </div>
-      <div class="d">
-        <p>yannick.engelmann@uantwerpen.be</p>
-      </div>
-      </div>
-    </div>
-  </div>
-
   <div class="row">
   <div class="column">
     <div class="card">
@@ -87,6 +70,23 @@ div.d {
       </div>
       <div class="d">
         <p>parisa.nematollahi@uantwerpen.be</p>
+      </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/Yannick.jpg" alt="Yannick" style="width:100%">
+      <div class="container">
+      <div class="c">
+        <h2>Yannick Engelmann</h2>
+        <p class="title">postdoc</p>
+        <p>Microkinetic modeling of plasma catalysis</p>
+      </div>
+      <div class="d">
+        <p>yannick.engelmann@uantwerpen.be</p>
       </div>
       </div>
     </div>
