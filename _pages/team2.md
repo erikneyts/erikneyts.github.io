@@ -75,5 +75,21 @@ div.d {
       </div>
       </div>
     </div>
-  </div>
+  </div>  
 </div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
+      <div class="container">
+        <div class="c">
+          <h3>Abhijit Gogoi</h3>
+          <p class="title">Postdoc</p>
+          <p>Molecular dynamics of nanomaterials</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+ </div>
