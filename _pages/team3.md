@@ -1,4 +1,17 @@
-
+---
+author: Mosaic
+layout: splash
+title: "Team"
+permalink: /team3/
+hidden: true
+author_profile: true
+classes: wide
+tagline: ""
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/masthead-image.jpg
+  caption: "Photo credit: [pngtree](https://www.pinterest.co.uk/pin/403283341624204549/)"
+---
 
 feature_row:
   - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
