@@ -92,4 +92,110 @@ div.d {
     </div>
   </div>
   
- </div>
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
+      <div class="container">
+        <div class="c">
+          <h3>Fahim Faraji</h3>
+          <p class="title">Ph.D. student</p>
+          <p>Molecular dynamics of nanomaterials</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
+      <div class="container">
+        <div class="c">
+          <h3>Attila Kovac</h3>
+          <p class="title">Ph.D. student</p>
+          <p>Molecular dynamics of NADES</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
+      <div class="container">
+        <div class="c">
+          <h3>Mohammad Eb Izadi</h3>
+          <p class="title">Joint Ph.D. student</p>
+          <p>Molecular dynamics of astrochemical reactions</p>
+        </div>
+      </div>
+    </div>
+  </div>   
+</div>
+
+ <div class="row"
+   <div class="column">
+    <div class="card">
+      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
+      <div class="container">
+        <div class="c">
+          <h3>Indy Verhoeven</h3>
+          <p class="title">Graduate student</p>
+          <p>DFT calculations for astrochemical reactions</p>
+        </div>
+      </div>
+    </div>
+  </div>
+ 
+ <div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
+      <div class="container">
+        <div class="c">
+          <h3>Arno Van Laer</h3>
+          <p class="title">Graduate student</p>
+          <p>DFT calculations of surface processes</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
+      <div class="container">
+        <div class="c">
+          <h3>Elise Helsen</h3>
+          <p class="title">Graduate student</p>
+          <p>DFT calculations for plasma catalysis</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
+      <div class="container">
+        <div class="c">
+          <h3>Quinten Den Toom</h3>
+          <p class="title">Undergrad student</p>
+          <p>Molecular dynamics for astrochemical reactions</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
+      <div class="container">
+        <div class="c">
+          <h3>Selim Baleci</h3>
+          <p class="title">Undergrad student</p>
+          <p>Chemical kinetics of the interstellar medium</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
