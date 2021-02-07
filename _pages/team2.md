@@ -32,12 +32,7 @@ div.d {
       <div class="c">
         <h2>Erik C. Neyts</h2>
         <p class="title">Team leader</p>
-        <p>Professor of Physical Chemistry (Department of Chemistry)</p>
-      </div>
-      <a href="mailto:erik.neyts@uantwerpen.be">
-          <div class="button">Contact</div>
-      </a>
-      </div>
+        <p>Professor of Physical Chemistry</p>
     </div>
   </div>
 
@@ -50,9 +45,6 @@ div.d {
         <h2>Kristof M. Bal</h2>
         <p class="title">FWO postdoc</p>
         <p>Enhanced sampling of chemical reactions</p>
-      </div>
-      <div class="d">
-        <p>kristof.bal@uantwerpen.be</p>
       </div>
       </div>
     </div>
@@ -68,9 +60,6 @@ div.d {
         <p class="title">FWO postdoc</p>
         <p>DFT simulations of surface chemistry</p>
       </div>
-      <div class="d">
-        <p>parisa.nematollahi@uantwerpen.be</p>
-      </div>
       </div>
     </div>
   </div>
@@ -84,9 +73,6 @@ div.d {
         <h2>Yannick Engelmann</h2>
         <p class="title">postdoc</p>
         <p>Microkinetic modeling of plasma catalysis</p>
-      </div>
-      <div class="d">
-        <p>yannick.engelmann@uantwerpen.be</p>
       </div>
       </div>
     </div>
