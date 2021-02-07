@@ -3,6 +3,7 @@ author: "Erik C. Neyts"
 layout: single
 permalink: /
 hidden: true
+classes: wide
 author_profile: true
 bio: "Full professor, Dept. Chemistry, University of Antwerp"
 links:
