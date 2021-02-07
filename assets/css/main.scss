@@ -27,8 +27,8 @@ html {
 .column {
   float: left;
   width: 25%;
-  margin-bottom: 12px;
-  padding: 0 6px;
+  margin-bottom: 16px;
+  padding: 0 8px;
 }
 
 /* Display the columns below each other instead of side by side on small screens */
@@ -69,7 +69,7 @@ html {
   background-color: #000;
   text-align: center;
   cursor: pointer;
-  width: 100%;
+  width: 80%;
 }
 
 .button:hover {
