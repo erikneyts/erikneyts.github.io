@@ -42,9 +42,11 @@ Heyne M. H., Zhang J., With P. C., Banerjee S., Neyts E. C., Asselberghs I., Lin
 <b>Entropic and enthalpic factors determining the thermodynamics and kinetics of carbon segregation from transition metal nanoparticles</b><br>
 Fukuhara S., Bal K.M., Neyts E.C., Shibuta Y.<br>
 Carbon 171, 806 (2021).<br><br>
+
 <b>Mechanisms of selective nanocarbon synthesis inside carbon nanotubes</b><br>
 Khalilov U., Neyts E.C.<br>
 Carbon 171, 72 (2021).<br><br>
+
 <b>On the kinetics and equilibria of plasma-based dry reforming of methane</b><br>
 Uytdenhouwen Y, Bal K, Neyts E, Meynen V, Cool P, Bogaerts A<br>
 Chem Eng J 405, 126630 (2021).<br><br>
