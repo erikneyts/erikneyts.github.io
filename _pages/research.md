@@ -12,4 +12,14 @@ header:
   caption: "Photo credit: [pngtree](https://www.pinterest.co.uk/pin/403283341624204549/)"
 ---
 
-Here comes info on our research.
+## Molecular simulation and enhanced sampling techniques
+TBA
+
+## Nanomaterials
+TBA
+
+## Thermal and plasma catalysis
+TBA
+
+## Astrochemistry
+TBA
