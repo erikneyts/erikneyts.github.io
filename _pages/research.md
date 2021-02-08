@@ -30,17 +30,17 @@ div.c {
 
 <div class="b">
   <h2>Molecular simulation and enhanced sampling techniques</h2>
-Molecular dynamics and monte carlo simulations are the traditional techniques to computationally study materials and processes at the atomic and molecular scale. To gain further insight in chemical reactions, or more broadly, physico-chemical processes, we augment these traditional techniques by enhanced sampling methods, including metadynamics and our in-house developed collective variable-driven hyperdynamics method. In particular, we are currently focussed on applying and deveoping computationlly efficient methods to calculate the free energy landscape of a reaction and the associated reaction rates.<br>
+Molecular dynamics and monte carlo simulations are the traditional techniques to computationally study materials and processes at the atomic and molecular scale. To gain further insight in chemical reactions, or more broadly, physico-chemical processes, we augment these traditional techniques by enhanced sampling methods, including metadynamics and our in-house developed collective variable-driven hyperdynamics method. In particular, we are currently focussed on applying and deveoping computationally efficient methods to calculate the free energy landscape of a reaction and the associated reaction rates.<br>
 
   <h2>Astrochemistry</h2>
-While it is well-known that dust particles are of great importance in determining the properties of the interstellar medium, many questions still remain with respect to the exact surface processes taking place under the extreme conditions. To partially answer these questions, we adopt molecular simulation and enhanced sampling techniques to study these surface processes. In particular, we calculate adsorption energies of molecular on ice surfaces at the DFT level, while dynamic processes are accounted for by classical simulations including nuclear quantum effects.<br>
+While it is well-known that dust particles are of great importance in determining the properties of the interstellar medium, many questions still remain with respect to the exact surface processes taking place under the extreme conditions. To partially answer these questions, we adopt molecular simulation and enhanced sampling techniques to study these surface processes. In particular, we calculate adsorption energies of molecules on ice surfaces at the DFT level, while dynamic processes are accounted for by classical simulations including nuclear quantum effects.<br>
 
   <h2>Nanomaterials</h2>
-TBA
+Nanomaterials exhibit unique mechanical, optical, and electronic properties that enable their use in today's nanotechnology. Typical examples are the use of nanoparticles in heterogeneous catalysis or the use of carbon nanotubes in conductive plastics. Employing both classical molecular dynamics and density functional theory calculations, we study the formation and etching of carbon nanotubes, and the catalytic behaviour of nano catalysts.
 <br>
 
   <h2>Thermal and plasma catalysis</h2>
-TBA
+Catalysis is of enormous importance in much of today's chemical industry. Furthermore, catalysis is also envisaged in an environmental context as a route to efficient CO<sub>2</sub> reduction and the conversion of methane into value-added chemicals. Of particular current interest is the combination of a catalyst with a plasma, allowing for process conditions which are unattainable in thermal catalysis. This in turn holds promise to convert greenhouse gases to value-added chemicals with higher energy efficiency and/or better conversion yields. We apply molecular scale modeling to study the plasma/catalyst interactions in general, and to unravel chemical pathways in particular.
 <br>
 
 </div>
