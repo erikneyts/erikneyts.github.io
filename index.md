@@ -7,6 +7,9 @@ classes: wide
 author_profile: true
 bio: "Full professor, Dept. Chemistry, University of Antwerp"
 links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:erik.neyts@uantwerpen.be"
   - label: "UAntwerp"
     icon: "fas fa-fw fa-link"
     url: "https://www.uantwerpen.be/en/staff/erik-neyts/"
