@@ -31,13 +31,14 @@ div.c {
 
 <div class="b">
 <h2>2021</h2>
+
 <b> Reactive plasma cleaning and restoration of transition metal dichalcogenide monolayers</b><br>
 Marinov D., de Marneffe J. F., Smets Q., Arutchelvan G., Bal K. M., Voronina E., 
 Rakhimova T., Mankelevich Y., El Kazzi S., Mehta A. K., Wyndaele P-J., 
 Heyne M. H., Zhang J., With P. C., Banerjee S., Neyts E. C., Asselberghs I., Lin D., De Gendt S.<br>
-npj 2D Materials and Applications 5, 17 (2021).
 <a href="https://www.nature.com/articles/s41699-020-00197-7">npj 2D Materials and Applications 5, 17 (2021).</a>
 <br><br>
+
 <b>Entropic and enthalpic factors determining the thermodynamics and kinetics of carbon segregation from transition metal nanoparticles</b><br>
 Fukuhara S., Bal K.M., Neyts E.C., Shibuta Y.<br>
 Carbon 171, 806 (2021).<br><br>
