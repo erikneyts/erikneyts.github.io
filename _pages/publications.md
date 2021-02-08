@@ -58,24 +58,35 @@ Uytdenhouwen Y, Bal K, Neyts E, Meynen V, Cool P, Bogaerts A<br>
 <b>Free energy barriers from biased molecular dynamics simulations</b><br>
 Bal K.M., Fukuhara S., Shibuta Y., Neyts E.C.<br>
 J Chem Phys 153, 114118 (2020).<br><br>
+
 <b>Predicted Influence of Plasma Activation on Nonoxidative Coupling of Methane on Transition Metal Catalysts</b><br>
 Engelmann Y, Mehta P, Neyts EC, Schneider WF, Bogaerts A<br>
 ACS Sustainable Chem Eng 8, 6043–6054 (2020).<br><br>
+
 <b>Activation of CO<sub>2</sub> on Copper Surfaces: The Synergy between Electric Field, Surface Morphology, and Excess Electrons</b><br>
 Jafarzadeh A., Bal K.M., Bogaerts A., Neyts E.C.<br>
 J Phys Chem C 124, 6747 (2020).<br><br>
+
 <b>Accelerated molecular dynamics simulation of large systems with parallel collective variable-driven hyperdynamics</b><br>
 Fukuhara S., Bal K.M., Neyts E.C., Shibuta Y.<br>
 Comp Mater Sci 177, 109581 (2020).<br><br>
+
 <b>Ensemble-Based Molecular Simulation of Chemical Reactions under Vibrational Nonequilibrium</b><br>
 Bal K.M., Bogaerts A., Neyts E.C.<br>
 J Phys Chem Lett 11, 401 (2020).<br><br>
+
 <b>Effect of van der Waals interactions on the adhesion strength at the interface of the hydroxyapatite-titanium biocomposite : a first-principles study</b><br>
 Grubova I.Y., Surmeneva M.A., Surmenev R.A., Neyts E.C.<br>
 RSC advances 10, 37800 (2020).<br><br>
+
+<b>Modeling the Physicochemical Properties of Natural Deep Eutectic Solvents</b><br>
+Kovács A., Neyts E.C., Cornet I., Wijnants M., Billen P.<br>
+ChemSusChem 13, 3789 (2020).<br><br>
+
 <b>Direct oxidation of methane to methanol on Co embedded N-doped graphene: Comparing the role of N<sub>2</sub>O and O<sub>2</sub> as oxidants</b><br>
 Nematollahi P., Neyts E.C.<br>
 Appl Catal A-Gen 602, 117716 (2020).<br><br>
+
 <h2>2019</h2>
 <b>Direct methane conversion to methanol on M and MN4 embedded graphene (M = Ni and Si): a comparative DFT study</b><br>
 Nematollahi P., Neyts E.C.<br>
