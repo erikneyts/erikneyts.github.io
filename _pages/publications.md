@@ -36,22 +36,22 @@ div.c {
 Marinov D., de Marneffe J. F., Smets Q., Arutchelvan G., Bal K. M., Voronina E., 
 Rakhimova T., Mankelevich Y., El Kazzi S., Mehta A. K., Wyndaele P-J., 
 Heyne M. H., Zhang J., With P. C., Banerjee S., Neyts E. C., Asselberghs I., Lin D., De Gendt S.<br>
-<a href="https://www.nature.com/articles/s41699-020-00197-7">npj 2D Materials and Applications 5, 17 (2021).</a>
+<a href="https://www.nature.com/articles/s41699-020-00197-7">npj 2D Materials and Applications 5, 17 (2021)</a>
 <br><br>
 
 <b>Entropic and enthalpic factors determining the thermodynamics and kinetics of carbon segregation from transition metal nanoparticles</b><br>
 Fukuhara S., Bal K.M., Neyts E.C., Shibuta Y.<br>
-<a href="https://www.sciencedirect.com/science/article/pii/S0008622320309180">Carbon 171, 806 (2021).</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0008622320309180">Carbon 171, 806 (2021)</a>
 <br><br>
 
 <b>Mechanisms of selective nanocarbon synthesis inside carbon nanotubes</b><br>
 Khalilov U., Neyts E.C.<br>
-<a ref="https://www.sciencedirect.com/science/article/pii/S0008622320308265">Carbon 171, 72 (2021).</a>
+<a ref="https://www.sciencedirect.com/science/article/pii/S0008622320308265">Carbon 171, 72 (2021)</a>
 <br><br>
 
 <b>On the kinetics and equilibria of plasma-based dry reforming of methane</b><br>
 Uytdenhouwen Y, Bal K, Neyts E, Meynen V, Cool P, Bogaerts A<br>
-<a ref="https://www.sciencedirect.com/science/article/abs/pii/S1385894720327583">Chem Eng J 405, 126630 (2021).</a>
+<a ref="https://www.sciencedirect.com/science/article/abs/pii/S1385894720327583">Chem Eng J 405, 126630 (2021)</a>
 <br><br>
 
 <h2>2020</h2>
