@@ -33,6 +33,7 @@ div.d {
           <h3>Erik C. Neyts</h3>
           <p class="title">Team leader</p>
           <p> Professor of Physical Chemistry</p>
+          <p>  </p>
         </div>
       </div>
     </div>
@@ -46,6 +47,7 @@ div.d {
         <h3>Kristof M. Bal</h3>
         <p class="title">FWO postdoc</p>
         <p>Enhanced sampling of chemical reactions</p>
+        <p>  </p>
       </div>
       </div>
     </div>
@@ -59,6 +61,7 @@ div.d {
         <h3>Parisa Nematollahi</h3>
         <p class="title">FWO postdoc</p>
         <p>DFT simulations of surface chemistry</p>
+        <p>  </p>
       </div>
       </div>
     </div>
@@ -70,7 +73,7 @@ div.d {
       <div class="container">
       <div class="c">
         <h3>Yannick Engelmann</h3>
-        <p class="title">postdoc (joint with Prof. Bogaerts, PLASMANT)</p>
+        <p class="title">postdoc (joint w/ Prof. Bogaerts, PLASMANT)</p>
         <p> Microkinetic modeling of plasma catalysis</p>
       </div>
       </div>
@@ -87,7 +90,7 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Abhijit Gogoi</h3>
-          <p class="title">Postdoc (joint with prof. Peeters, CMT)</p>
+          <p class="title">Postdoc (joint w/ prof. Peeters, CMT)</p>
           <p>Molecular dynamics of nanomaterials</p>
         </div>
       </div>
