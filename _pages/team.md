@@ -32,7 +32,7 @@ div.d {
         <div class="c">
           <h3>Erik C. Neyts</h3>
           <p class="title">Team leader</p>
-          <p>Professor of Physical Chemistry</p>
+          <p> Professor of Physical Chemistry</p>
         </div>
       </div>
     </div>
@@ -70,8 +70,8 @@ div.d {
       <div class="container">
       <div class="c">
         <h3>Yannick Engelmann</h3>
-        <p class="title">postdoc</p>
-        <p>Microkinetic modeling of plasma catalysis</p>
+        <p class="title">postdoc (joint with Prof. Bogaerts)</p>
+        <p> Microkinetic modeling of plasma catalysis</p>
       </div>
       </div>
     </div>
