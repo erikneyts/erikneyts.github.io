@@ -59,7 +59,6 @@ div.d {
         <h3>Parisa Nematollahi</h3>
         <p class="title">FWO postdoc</p>
         <p>DFT simulations of surface chemistry</p><br>
-        <p>  </p>
       </div>
       </div>
     </div>
