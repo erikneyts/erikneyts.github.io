@@ -45,8 +45,7 @@ div.d {
       <div class="c">
         <h3>Kristof M. Bal</h3>
         <p class="title">FWO postdoc</p>
-        <p>Enhanced sampling of chemical reactions</p>
-        <p>  </p>
+        <p>Enhanced sampling of chemical reactions</p><br>
       </div>
       </div>
     </div>
@@ -59,7 +58,7 @@ div.d {
       <div class="c">
         <h3>Parisa Nematollahi</h3>
         <p class="title">FWO postdoc</p>
-        <p>DFT simulations of surface chemistry</p>
+        <p>DFT simulations of surface chemistry</p><br>
         <p>  </p>
       </div>
       </div>
@@ -102,7 +101,7 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Fahim Faraji</h3>
-          <p class="title">Ph.D. student (joint with prof. Peeters, CMT)</p>
+          <p class="title">Ph.D. student (joint w/ prof. Peeters, CMT)</p>
           <p>Molecular dynamics of nanomaterials</p>
         </div>
       </div>
@@ -115,7 +114,7 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Attila Kovac</h3>
-          <p class="title">Ph.D. student (joint with Prof. Billen, iPracs)</p>
+          <p class="title">Ph.D. student (joint w/ Prof. Billen, iPracs)</p>
           <p>Molecular dynamics of NADES</p>
         </div>
       </div>
@@ -128,7 +127,7 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Shangkun Li</h3>
-          <p class="title">Ph.D. student (joint with Prof. Bogaerts, PLASMANT)</p>
+          <p class="title">Ph.D. student (joint w/ Prof. Bogaerts, PLASMANT)</p>
           <p>DFT calculations for plasma catalysis</p>
         </div>
       </div>
@@ -145,7 +144,7 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Mohammad Eb Izadi</h3>
-          <p class="title">Joint Ph.D. student (joint with Univ. Tehran)</p>
+          <p class="title">Joint Ph.D. student (joint w/ Univ. Tehran)</p>
           <p>Molecular dynamics of astrochemical reactions</p>
         </div>
       </div>
@@ -159,7 +158,7 @@ div.d {
         <div class="c">
           <h3>Indy Verhoeven</h3>
           <p class="title">Graduate student</p>
-          <p>DFT calculations for astrochemical reactions</p>
+          <p>DFT calculations for astrochemical reactions</p><br>
         </div>
       </div>
     </div>
@@ -172,7 +171,7 @@ div.d {
         <div class="c">
           <h3>Arno Van Laer</h3>
           <p class="title">Graduate student</p>
-          <p>DFT calculations of surface processes</p>
+          <p>DFT calculations of surface processes</p><br>
         </div>
       </div>
     </div>
@@ -184,7 +183,7 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Elise Helsen</h3>
-          <p class="title">Graduate student (joint with prof. Meynen, LADCA)</p>
+          <p class="title">Graduate student (joint w/ prof. Meynen, LADCA)</p>
           <p>DFT calculations for plasma catalysis</p>
         </div>
       </div>
@@ -201,7 +200,7 @@ div.d {
         <div class="c">
           <h3>Quinten Den Toom</h3>
           <p class="title">Undergrad student</p>
-          <p>Molecular dynamics for astrochemical reactions</p>
+          <p>Molecular dynamics for astrochemical reactions</p><br>
         </div>
       </div>
     </div>
@@ -214,7 +213,7 @@ div.d {
         <div class="c">
           <h3>Selim Baleci</h3>
           <p class="title">Undergrad student</p>
-          <p>Chemical kinetics of the interstellar medium</p>
+          <p>Chemical kinetics of the interstellar medium</p><br>
         </div>
       </div>
     </div>
