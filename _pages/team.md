@@ -32,8 +32,7 @@ div.d {
         <div class="c">
           <h3>Erik C. Neyts</h3>
           <p class="title">Team leader</p>
-          <p> Professor of Physical Chemistry</p>
-          <p>  </p>
+          <p> Professor of Physical Chemistry</p><br>
         </div>
       </div>
     </div>
