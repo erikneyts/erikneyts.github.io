@@ -37,8 +37,8 @@ div.d {
       <div class="c">
         <h3>Erik C. Neyts</h3>
         <p id="losinfo">
-          <span style="font-size:80%;">Team leader</span><br>
-          <span style="font-size:65%;">test line</span>
+          <span class="title" style="font-size:100%;">Team leader</span><br>
+          <span class="title" style="font-size:80%;">test line</span>
         </p>
         <p>Professor of Physical Chemistry</p><br>
       </div>
