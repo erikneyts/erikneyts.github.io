@@ -33,16 +33,9 @@ div.d {
   <div class="column">
     <div class="card">
       <img src="/assets/images/bio-photo.jpg" alt="Erik" style="width:100%">
-        <h3>Erik C. Neyts</h3>
-          <div class="cb">
-            <p class="title">Team leader</p>
-          </div>
-          <div class="d">
-            <p class="title">test line small no white line</p>
-          </div> 
-          <div class="c">
-            <p class="title">Professor of Physical Chemistry</p>
-          </div>           
+      <h3>Erik C. Neyts</h3>
+      <h6 class="card-subtitle mb-2 text-muted">Team Leader</h6>
+      <p>Professor of Physical Chemistry</p><br>
     </div>
   </div>
 
