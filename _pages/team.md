@@ -40,7 +40,7 @@ div.d {
           <span class="title" style="font-size:100%;">Team leader</span><br>
           <span class="title" style="font-size:80%;">test line</span>
         </p>
-        <p>Professor of Physical Chemistry</p><br>
+        <p>Professor of Physical Chemistry</p>
       </div>
       </div>
     </div>
@@ -52,8 +52,11 @@ div.d {
       <div class="container">
       <div class="c">
         <h3>Kristof M. Bal</h3>
-        <p class="title">FWO postdoc</p>
-        <p>Enhanced sampling of chemical reactions</p><br>
+        <p id="losinfo">
+          <span class="title" style="font-size:100%;">FWO postdoc</span><br>
+          <span class="title" style="font-size:80%;"> </span>
+        </p>
+        <p>Enhanced sampling of chemical reactions</p>
       </div>
       </div>
     </div>
@@ -65,8 +68,11 @@ div.d {
       <div class="container">
       <div class="c">
         <h3>Parisa Nematollahi</h3>
-        <p class="title">FWO postdoc</p>
-        <p>DFT simulations of surface chemistry</p><br>
+        <p id="losinfo">
+          <span class="title" style="font-size:100%;">FWO postdoc</span><br>
+          <span class="title" style="font-size:80%;"> </span>
+        </p>
+        <p>DFT simulations of surface chemistry</p>
       </div>
       </div>
     </div>
@@ -78,7 +84,10 @@ div.d {
       <div class="container">
       <div class="c">
         <h3>Yannick Engelmann</h3>
-        <p class="title">postdoc (joint w/ Prof. Bogaerts, PLASMANT)</p>
+        <p id="losinfo">
+          <span class="title" style="font-size:100%;">Postdoc</span><br>
+          <span class="title" style="font-size:80%;">joint with Prof. Bogaerts</span>
+        </p>
         <p> Microkinetic modeling of plasma catalysis</p>
       </div>
       </div>
