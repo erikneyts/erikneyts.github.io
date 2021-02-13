@@ -104,7 +104,10 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Abhijit Gogoi</h3>
-          <p class="title">Postdoc (joint w/ prof. Peeters, CMT)</p>
+        <p id="losinfo">
+          <span class="title" style="font-size:100%;">Postdoc</span><br>
+          <span class="title" style="font-size:80%;">joint with Prof. Peeters</span>
+        </p>
           <p>Molecular dynamics of nanomaterials</p>
         </div>
       </div>
@@ -117,7 +120,10 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Fahim Faraji</h3>
-          <p class="title">Ph.D. student (joint w/ prof. Peeters, CMT)</p>
+        <p id="losinfo">
+          <span class="title" style="font-size:100%;">Ph.d. student</span><br>
+          <span class="title" style="font-size:80%;">joint with Prof. Peeters</span>
+        </p>
           <p>Molecular dynamics of nanomaterials</p>
         </div>
       </div>
@@ -130,7 +136,10 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Attila Kovac</h3>
-          <p class="title">Ph.D. student (joint w/ Prof. Billen, iPracs)</p>
+        <p id="losinfo">
+          <span class="title" style="font-size:100%;">Ph.d. student</span><br>
+          <span class="title" style="font-size:80%;">joint with Prof. Billen</span>
+        </p>
           <p>Molecular dynamics of NADES</p>
         </div>
       </div>
@@ -143,7 +152,10 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Shangkun Li</h3>
-          <p class="title">Ph.D. student (joint Prof Bogaerts, PLASMANT)</p>
+        <p id="losinfo">
+          <span class="title" style="font-size:100%;">Ph.d. student</span><br>
+          <span class="title" style="font-size:80%;">joint with Prof. Bogaerts</span>
+        </p>
           <p>DFT calculations for plasma catalysis</p>
         </div>
       </div>
@@ -160,7 +172,10 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Mohammad Eb Izadi</h3>
-          <p class="title">Joint Ph.D. student (joint w/ Univ. Tehran)</p>
+        <p id="losinfo">
+          <span class="title" style="font-size:100%;">Ph.d. student</span><br>
+          <span class="title" style="font-size:80%;">joint with Univ. Tehran</span>
+        </p>
           <p>Molecular dynamics of astrochemical reactions</p>
         </div>
       </div>
@@ -173,7 +188,10 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Indy Verhoeven</h3>
-          <p class="title">Graduate student</p>
+        <p id="losinfo">
+          <span class="title" style="font-size:100%;">Graduate student</span><br>
+          <span class="title" style="font-size:80%;"> </span><br>
+        </p>
           <p>DFT calculations for astrochemical reactions</p><br>
         </div>
       </div>
@@ -186,7 +204,8 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Arno Van Laer</h3>
-          <p class="title">Graduate student</p>
+          <span class="title" style="font-size:100%;">Graduate student</span><br>
+          <span class="title" style="font-size:80%;"> </span><br>
           <p>DFT calculations of surface processes</p><br>
         </div>
       </div>
@@ -199,7 +218,8 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Elise Helsen</h3>
-          <p class="title">Graduate student (joint w/ prof. Meynen, LADCA)</p>
+          <span class="title" style="font-size:100%;">Graduate student</span><br>
+          <span class="title" style="font-size:80%;">joint with prof. Meynen</span>
           <p>DFT calculations for plasma catalysis</p>
         </div>
       </div>
@@ -215,7 +235,8 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Quinten Den Toom</h3>
-          <p class="title">Undergrad student</p>
+          <span class="title" style="font-size:100%;">Undergrad student</span><br>
+          <span class="title" style="font-size:80%;"> </span><br>
           <p>Molecular dynamics for astrochemical reactions</p><br>
         </div>
       </div>
@@ -228,7 +249,8 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Selim Baleci</h3>
-          <p class="title">Undergrad student</p>
+          <span class="title" style="font-size:100%;">Undergrad student</span><br>
+          <span class="title" style="font-size:80%;"> </span><br>
           <p>Chemical kinetics of the interstellar medium</p><br>
         </div>
       </div>
