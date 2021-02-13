@@ -38,7 +38,7 @@ div.d {
         <h3>Erik C. Neyts</h3>
         <p id="losinfo">
           <span class="title" style="font-size:100%;">Team leader</span><br>
-          <span class="title" style="font-size:80%;">test line</span>
+          <span class="title" style="font-size:80%;"></span><br>
         </p>
         <p>Professor of Physical Chemistry</p>
       </div>
@@ -54,7 +54,7 @@ div.d {
         <h3>Kristof M. Bal</h3>
         <p id="losinfo">
           <span class="title" style="font-size:100%;">FWO postdoc</span><br>
-          <span class="title" style="font-size:80%;"> </span>
+          <span class="title" style="font-size:80%;"> </span><br>
         </p>
         <p>Enhanced sampling of chemical reactions</p>
       </div>
@@ -70,7 +70,7 @@ div.d {
         <h3>Parisa Nematollahi</h3>
         <p id="losinfo">
           <span class="title" style="font-size:100%;">FWO postdoc</span><br>
-          <span class="title" style="font-size:80%;"> </span>
+          <span class="title" style="font-size:80%;"> </span><br>
         </p>
         <p>DFT simulations of surface chemistry</p>
       </div>
