@@ -30,7 +30,7 @@ div.d {
       <img src="/assets/images/bio-photo.jpg" alt="Erik" style="width:100%">
         <div class="c">
           <h3>Erik C. Neyts</h3>
-          <p class="title">Team leader<br></p><p style="font-size:80%;">This is a paragraph</p>
+          <p class="title">Team leader<br><p style="font-size:80%;">This is a paragraph</p></p>
           <p> Professor of Physical Chemistry</p><br>
         </div>
     </div>
