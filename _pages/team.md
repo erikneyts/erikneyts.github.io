@@ -204,8 +204,10 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Arno Van Laer</h3>
+        <p id="losinfo">
           <span class="title" style="font-size:100%;">Graduate student</span><br>
           <span class="title" style="font-size:80%;"> </span><br>
+        </p>
           <p>DFT calculations of surface processes</p>
         </div>
       </div>
@@ -218,8 +220,10 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Elise Helsen</h3>
+        <p id="losinfo">
           <span class="title" style="font-size:100%;">Graduate student</span><br>
-          <span class="title" style="font-size:80%;">joint with prof. Meynen</span>
+          <span class="title" style="font-size:80%;">joint with Prof. Meynen</span>
+        </p>
           <p>DFT calculations for plasma catalysis</p>
         </div>
       </div>
@@ -235,8 +239,10 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Quinten Den Toom</h3>
-          <span class="title" style="font-size:100%;">Undergrad student</span><br>
+        <p id="losinfo">
+          <span class="title" style="font-size:100%;">Graduate student</span><br>
           <span class="title" style="font-size:80%;"> </span><br>
+        </p>
           <p>Molecular dynamics for astrochemical reactions</p>
         </div>
       </div>
@@ -249,9 +255,11 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Selim Baleci</h3>
-          <span class="title" style="font-size:100%;">Undergrad student</span><br>
+        <p id="losinfo">
+          <span class="title" style="font-size:100%;">Graduate student</span><br>
           <span class="title" style="font-size:80%;"> </span><br>
-          <p>Chemical kinetics of the interstellar medium</p><br>
+        </p>
+          <p>Chemical kinetics of the interstellar medium</p>
         </div>
       </div>
     </div>
