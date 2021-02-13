@@ -31,7 +31,11 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Erik C. Neyts</h3>
+        </div>
+        <div class="d">
           <p class="title">Team leader</p>
+        </div>
+        <div class="c">
           <p> Professor of Physical Chemistry</p><br>
         </div>
       </div>
@@ -126,7 +130,7 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Shangkun Li</h3>
-          <p class="title">Ph.D. student (joint w/ Prof. Bogaerts, PLASMANT)</p>
+          <p class="title">Ph.D. student (joint Prof Bogaerts, PLASMANT)</p>
           <p>DFT calculations for plasma catalysis</p>
         </div>
       </div>
