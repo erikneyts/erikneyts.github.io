@@ -18,6 +18,11 @@ header:
 div.c {
  font-size: 80%;
 }
+div.cb {
+ font-size: 80%;
+ white-space: nowrap;
+ overflow: hidden;
+}
 div.d {
   font-size: 65%;
 }
@@ -28,10 +33,16 @@ div.d {
   <div class="column">
     <div class="card">
       <img src="/assets/images/bio-photo.jpg" alt="Erik" style="width:100%">
-          <h3>Erik C. Neyts</h3>
-          <p class="title" style="font-size:80%;">Team leader</p>
-          <p class="title" style="font-size:60%;">This is a paragraph</p>
-          <p style="font-size:80%;"> Professor of Physical Chemistry</p>
+        <h3>Erik C. Neyts</h3>
+          <div class="cb">
+            <p class="title">Team leader</p>
+          </div>
+          <div class="d">
+            <p class="title">test line small no white line</p>
+          </div> 
+          <div class="c">
+            <p class="title">Professor of Physical Chemistry</p>
+          </div>           
     </div>
   </div>
 
