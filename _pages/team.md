@@ -31,8 +31,8 @@ div.d {
       <div class="container">
         <div class="c">
           <h3>Erik C. Neyts</h3>
-          <p class="title">Team leader</p>
-          <p class="title">joint w/ Prof. Bogaerts</p>
+          <p class="title">Team leader
+          <p class="title">joint w/ Prof. Bogaerts</p></p>
           <p> Professor of Physical Chemistry</p><br>
         </div>
       </div>
