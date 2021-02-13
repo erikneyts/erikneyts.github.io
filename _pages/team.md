@@ -192,7 +192,7 @@ div.d {
           <span class="title" style="font-size:100%;">Graduate student</span><br>
           <span class="title" style="font-size:80%;"> </span><br>
         </p>
-          <p>DFT calculations for astrochemical reactions</p><br>
+          <p>DFT calculations for astrochemical reactions</p>
         </div>
       </div>
     </div>
@@ -206,7 +206,7 @@ div.d {
           <h3>Arno Van Laer</h3>
           <span class="title" style="font-size:100%;">Graduate student</span><br>
           <span class="title" style="font-size:80%;"> </span><br>
-          <p>DFT calculations of surface processes</p><br>
+          <p>DFT calculations of surface processes</p>
         </div>
       </div>
     </div>
@@ -237,7 +237,7 @@ div.d {
           <h3>Quinten Den Toom</h3>
           <span class="title" style="font-size:100%;">Undergrad student</span><br>
           <span class="title" style="font-size:80%;"> </span><br>
-          <p>Molecular dynamics for astrochemical reactions</p><br>
+          <p>Molecular dynamics for astrochemical reactions</p>
         </div>
       </div>
     </div>
