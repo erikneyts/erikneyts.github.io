@@ -28,14 +28,11 @@ div.d {
   <div class="column">
     <div class="card">
       <img src="/assets/images/bio-photo.jpg" alt="Erik" style="width:100%">
-      <div class="container">
         <div class="c">
           <h3>Erik C. Neyts</h3>
-          <p class="title">Team leader
-          <p class="title">joint w/ Prof. Bogaerts</p></p>
+          <p class="title">Team leader</p>
           <p> Professor of Physical Chemistry</p><br>
         </div>
-      </div>
     </div>
   </div>
 
