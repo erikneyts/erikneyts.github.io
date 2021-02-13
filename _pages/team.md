@@ -148,7 +148,7 @@ div.d {
   
   <div class="column">
     <div class="card">
-      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
+      <img src="/assets/images/ShangkunLi.jpg" alt="" style="width:100%">
       <div class="container">
         <div class="c">
           <h3>Shangkun Li</h3>
@@ -168,7 +168,7 @@ div.d {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
+      <img src="/assets/images/MohammadEbIzadi.jpg" alt="" style="width:100%">
       <div class="container">
         <div class="c">
           <h3>Mohammad Eb Izadi</h3>
@@ -235,7 +235,7 @@ div.d {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
+      <img src="/assets/images/QuintenDenToom.jpg" alt="" style="width:100%">
       <div class="container">
         <div class="c">
           <h3>Quinten Den Toom</h3>
