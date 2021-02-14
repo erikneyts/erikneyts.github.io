@@ -33,7 +33,7 @@ div.c {
 <h2>2021</h2>
 <b>Effect of chemical modification on electronic transport properties of carbyne</b><br>
 Berdiyorov G. R., Khalilov U., Hamoudi H., Neyts E. C.<br>
-<a href="https://doi.org/10.1007/s10825-020-01639-7">J Comput Electr (2021) doi.org/10.1007/s10825-020-01639-7</a>
+<a href="https://doi.org/10.1007/s10825-020-01639-7">J Comput Electr (2021) DOI 10.1007/s10825-020-01639-7</a>
 <br><br>
 
 <b> Reactive plasma cleaning and restoration of transition metal dichalcogenide monolayers</b><br>
