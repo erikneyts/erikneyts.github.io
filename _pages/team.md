@@ -132,10 +132,10 @@ div.d {
   
   <div class="column">
     <div class="card">
-      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
+      <img src="/assets/images/AttilaKovacs.jpg" alt="" style="width:100%">
       <div class="container">
         <div class="c">
-          <h3>Attila Kovac</h3>
+          <h3>Attila Kovacs</h3>
         <p id="losinfo">
           <span class="title" style="font-size:100%;">Ph.d. student</span><br>
           <span class="title" style="font-size:80%;">joint with Prof. Billen</span>
