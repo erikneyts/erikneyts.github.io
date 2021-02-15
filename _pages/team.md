@@ -116,7 +116,7 @@ div.d {
   
   <div class="column">
     <div class="card">
-      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
+      <img src="/assets/images/FahimFaraji.jpg" alt="" style="width:100%">
       <div class="container">
         <div class="c">
           <h3>Fahim Faraji</h3>
