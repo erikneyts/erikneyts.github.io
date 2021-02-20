@@ -31,6 +31,11 @@ div.c {
 
 <div class="b">
 <h2>2021</h2>
+<b>Plasma-Catalytic Ammonia Reforming of Methane over Cu-Based Catalysts for the Production of HCN and H2 at Reduced Temperature</b><br>
+Yi Y., Wang X., Jafarzadeh A., Wang L, Liu P., He B., Yan J. Zhang R., Zhang H., Liu X., Guo H., Neyts E. C., Bogaerts A.<br>
+<a href="https://pubs.acs.org/doi/10.1021/acscatal.0c04940"ACS Catal 11, 1765 (2021)</a>
+<br><br>
+  
 <b>Effect of chemical modification on electronic transport properties of carbyne</b><br>
 Berdiyorov G. R., Khalilov U., Hamoudi H., Neyts E. C.<br>
 <a href="https://rdcu.be/cfcWB">J Comput Electr (2021) DOI 10.1007/s10825-020-01639-7</a>
