@@ -48,22 +48,6 @@ div.d {
 
   <div class="column">
     <div class="card">
-      <img src="/assets/images/Kristof.jpg" alt="Kristof" style="width:100%">
-      <div class="container">
-      <div class="c">
-        <h3>Kristof M. Bal</h3>
-        <p id="losinfo">
-          <span class="title" style="font-size:100%;">FWO postdoc</span><br>
-          <span class="title" style="font-size:80%;"> </span><br>
-        </p>
-        <p>Enhanced sampling of chemical reactions</p>
-      </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
       <img src="/assets/images/Parisa.jpg" alt="Parisa" style="width:100%">
       <div class="container">
       <div class="c">
@@ -80,26 +64,6 @@ div.d {
 
   <div class="column">
     <div class="card">
-      <img src="/assets/images/Yannick.jpg" alt="Yannick" style="width:100%">
-      <div class="container">
-      <div class="c">
-        <h3>Yannick Engelmann</h3>
-        <p id="losinfo">
-          <span class="title" style="font-size:100%;">Postdoc</span><br>
-          <span class="title" style="font-size:80%;">joint with Prof. Bogaerts</span>
-        </p>
-        <p> Microkinetic modeling of plasma catalysis</p>
-      </div>
-      </div>
-    </div>
-  </div>  
-</div>
-
-
-
-<div class="row">
-  <div class="column">
-    <div class="card">
       <img src="/assets/images/AbhijitGogoi.jpg" alt="" style="width:100%">
       <div class="container">
         <div class="c">
@@ -114,6 +78,7 @@ div.d {
     </div>
   </div>
   
+<div class="row">  
   <div class="column">
     <div class="card">
       <img src="/assets/images/FahimFaraji.jpg" alt="" style="width:100%">
@@ -269,5 +234,11 @@ div.d {
 <div class="c">
   <h2>Former members</h2>
     <h3>dr. Kristof Bal</h3>
-Kristof Ba entered out team ... .<br>
+Kristof Bal entered out team ... .<br>
+  
+      <h3>dr. Yannick Engelmann</h3>
+Yannick ... .<br>
+  
+      <h3>Mohammad Eb Izadi</h3>
+Mohammad ... .<br>  
 </div>
