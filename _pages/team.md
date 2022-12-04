@@ -265,3 +265,9 @@ div.d {
     </div>
   </div>
 </div>
+
+<div class="c">
+  <h2>Former members</h2>
+    <h3>dr. Kristof Bal</h3>
+Kristof Ba entered out team ... .<br>
+</div>
