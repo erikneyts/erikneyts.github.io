@@ -233,6 +233,13 @@ div.d {
 
 <div class="c">
   <h2>Former members</h2>
+  
+    <h3>Name 1</h3>
+Molecular dynamics and Monte Carlo simulations are the traditional techniques to computationally study materials and processes at the atomic and molecular scale. To gain further insight in chemical reactions, or more broadly, physico-chemical processes, we augment these traditional techniques by enhanced sampling methods, including metadynamics and our in-house developed collective variable-driven hyperdynamics method. In particular, we are currently focussed on applying and developing computationally efficient methods to calculate the free energy landscape of reactions and the associated reaction rates.<br>
+
+    <h3>Name 2</h3>
+While it is well-known that dust particles are of great importance in determining the properties of the interstellar medium, many questions still remain with respect to the exact surface processes taking place under the extreme interstellar conditions. To partially answer these questions, we adopt molecular simulation and enhanced sampling techniques to study these surface processes. In particular, we calculate adsorption energies of molecules on ice surfaces at the DFT level, while dynamic processes are accounted for by classical simulations including nuclear quantum effects.<br>  
+  
     <h3>dr. Kristof Bal</h3>
 Kristof Bal entered out team ... .<br>
   
