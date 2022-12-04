@@ -125,125 +125,48 @@ div.d {
         </div>
       </div>
     </div>
-  </div>   
-</div>
-
-
-
-<div class="row">
+  </div>
+  
   <div class="column">
     <div class="card">
-      <img src="/assets/images/MohammadEbIzadi.jpg" alt="" style="width:100%">
+      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
       <div class="container">
         <div class="c">
-          <h3>Mohammad Eb Izadi</h3>
+          <h3>Tobe Vorsselmans</h3>
         <p id="losinfo">
           <span class="title" style="font-size:100%;">Ph.d. student</span><br>
-          <span class="title" style="font-size:80%;">joint with Univ. Tehran</span>
         </p>
-          <p>Molecular dynamics of astrochemical reactions</p>
+          <p>DFT calculations for astrochemistry</p>
         </div>
       </div>
     </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="/assets/images/IndyVerhoeven.jpg" alt="" style="width:100%">
-      <div class="container">
-        <div class="c">
-          <h3>Indy Verhoeven</h3>
-        <p id="losinfo">
-          <span class="title" style="font-size:100%;">Graduate student</span><br>
-          <span class="title" style="font-size:80%;"> </span><br>
-        </p>
-          <p>DFT calculations for astrochemical reactions</p>
-        </div>
-      </div>
-    </div>
-  </div>
- 
-  <div class="column">
-    <div class="card">
-      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
-      <div class="container">
-        <div class="c">
-          <h3>Arno Van Laer</h3>
-        <p id="losinfo">
-          <span class="title" style="font-size:100%;">Graduate student</span><br>
-          <span class="title" style="font-size:80%;"> </span><br>
-        </p>
-          <p>DFT calculations of surface processes</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
-      <img src="/assets/images/EliseHelsen.jpg" alt="" style="width:100%">
-      <div class="container">
-        <div class="c">
-          <h3>Elise Helsen</h3>
-        <p id="losinfo">
-          <span class="title" style="font-size:100%;">Graduate student</span><br>
-          <span class="title" style="font-size:80%;">joint with Prof. Meynen</span>
-        </p>
-          <p>DFT calculations for plasma catalysis</p>
-        </div>
-      </div>
-    </div>
-  </div>
+  </div>  
 </div>
- 
- 
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="/assets/images/QuintenDenToom.jpg" alt="" style="width:100%">
-      <div class="container">
-        <div class="c">
-          <h3>Quinten Den Toom</h3>
-        <p id="losinfo">
-          <span class="title" style="font-size:100%;">Graduate student</span><br>
-          <span class="title" style="font-size:80%;"> </span><br>
-        </p>
-          <p>Molecular dynamics for astrochemical reactions</p>
-        </div>
-      </div>
-    </div>
-  </div>
 
-  <div class="column">
-    <div class="card">
-      <img src="/assets/images/avatar-anom.jpg" alt="" style="width:100%">
-      <div class="container">
-        <div class="c">
-          <h3>Selim Baleci</h3>
-        <p id="losinfo">
-          <span class="title" style="font-size:100%;">Graduate student</span><br>
-          <span class="title" style="font-size:80%;"> </span><br>
-        </p>
-          <p>Chemical kinetics of the interstellar medium</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 <div class="c">
-  <h2>Former members</h2>
-    <h3>Name 1</h3>
-Molecular dynamics and Monte Carlo simulations are the traditional techniques to computationally study materials and processes at the atomic and molecular scale. To gain further insight in chemical reactions, or more broadly, physico-chemical processes, we augment these traditional techniques by enhanced sampling methods, including metadynamics and our in-house developed collective variable-driven hyperdynamics method. In particular, we are currently focussed on applying and developing computationally efficient methods to calculate the free energy landscape of reactions and the associated reaction rates.<br>
-    <h3>Name 2</h3>
-While it is well-known that dust particles are of great importance in determining the properties of the interstellar medium, many questions still remain with respect to the exact surface processes taking place under the extreme interstellar conditions. To partially answer these questions, we adopt molecular simulation and enhanced sampling techniques to study these surface processes. In particular, we calculate adsorption energies of molecules on ice surfaces at the DFT level, while dynamic processes are accounted for by classical simulations including nuclear quantum effects.<br>  
-  
+  <h2>Former postdoc members</h2>
     <h3>dr. Kristof Bal</h3>
-Kristof Bal entered out team ... .<br>
-  
+Kristof...
+  <br>
     <h3>dr. Yannick Engelmann</h3>
-Yannick ... .<br>
-  
+Yannick...
+  <br>
+  <h2>Former PhD members</h2>  
     <h3>Mohammad Eb Izadi</h3>
 Mohammad ... .<br>  
+  <h2>Former graduate students</h2>  
+    <h3>Matthias Albrechts</h3>
+Matthias ... .<br>   
+    <h3>Olivier Puimège</h3>
+Olivier ... .<br>   
+  <h3>Indy Verhoeven</h3>
+Indy ... .<br>  
+    <h3>Arno Van Laer</h3>
+Arno ... .<br>
+    <h3>Elise Helsen</h3>
+Elise ... .<br>  
+  <h2>Former undergraduate students</h2>  
+    <h3>Quinten Den Toom</h3>  
+Quinten... .<br>
 </div>
