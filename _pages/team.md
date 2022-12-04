@@ -236,9 +236,9 @@ div.d {
     <h3>dr. Kristof Bal</h3>
 Kristof Bal entered out team ... .<br>
   
-      <h3>dr. Yannick Engelmann</h3>
+    <h3>dr. Yannick Engelmann</h3>
 Yannick ... .<br>
   
-      <h3>Mohammad Eb Izadi</h3>
+    <h3>Mohammad Eb Izadi</h3>
 Mohammad ... .<br>  
 </div>
