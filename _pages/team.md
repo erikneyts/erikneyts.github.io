@@ -146,17 +146,17 @@ div.d {
 
 <div class="c">
   <h2>Former postdoc members</h2>
-     dr. Kristof Bal
-     dr. Yannick Engelmann
+     dr. Kristof Bal <br>
+     dr. Yannick Engelmann <br>
   <h2>Former PhD members</h2>  
-    Attila Kovac
-    Mohammad Eb Izadi
+    Attila Kovac <br>
+    Mohammad Eb Izadi <br>
   <h2>Former graduate and undergraduate students</h2>  
-    Matthias Albrechts
-    Olivier Puimège
-    Indy Verhoeven
-    Arno Van Laer
-    Elise Helsen
+    Matthias Albrechts <br>
+    Olivier Puimège <br>
+    Indy Verhoeven <br>
+    Arno Van Laer <br>
+    Elise Helsen <br>
   <br>
     Quinten den Toom
 </div>
