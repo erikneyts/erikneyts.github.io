@@ -97,22 +97,6 @@ div.d {
   
   <div class="column">
     <div class="card">
-      <img src="/assets/images/AttilaKovacs.jpg" alt="" style="width:100%">
-      <div class="container">
-        <div class="c">
-          <h3>Attila Kovacs</h3>
-        <p id="losinfo">
-          <span class="title" style="font-size:100%;">Ph.d. student</span><br>
-          <span class="title" style="font-size:80%;">joint with Prof. Billen</span>
-        </p>
-          <p>Molecular dynamics of NADES</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
       <img src="/assets/images/ShangkunLi.jpg" alt="" style="width:100%">
       <div class="container">
         <div class="c">
