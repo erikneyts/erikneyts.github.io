@@ -135,6 +135,7 @@ div.d {
           <h3>Tobe Vorsselmans</h3>
         <p id="losinfo">
           <span class="title" style="font-size:100%;">Ph.d. student</span><br>
+          <span class="title" style="font-size:80%;"> </span>
         </p>
           <p>DFT calculations for astrochemistry</p>
         </div>
