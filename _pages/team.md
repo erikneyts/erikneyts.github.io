@@ -86,7 +86,7 @@ div.d {
         <div class="c">
           <h3>Fahim Faraji</h3>
         <p id="losinfo">
-          <span class="title" style="font-size:100%;">Ph.d. student</span><br>
+          <span class="title" style="font-size:100%;">Ph.D. student</span><br>
           <span class="title" style="font-size:80%;">joint with Prof. Peeters</span>
         </p>
           <p>Molecular dynamics of nanomaterials</p>
@@ -102,7 +102,7 @@ div.d {
         <div class="c">
           <h3>Shangkun Li</h3>
         <p id="losinfo">
-          <span class="title" style="font-size:100%;">Ph.d. student</span><br>
+          <span class="title" style="font-size:100%;">Ph.D. student</span><br>
           <span class="title" style="font-size:80%;">joint with Prof. Bogaerts</span>
         </p>
           <p>DFT calculations for plasma catalysis</p>
@@ -118,8 +118,8 @@ div.d {
         <div class="c">
           <h3>Tobe Vorsselmans</h3>
         <p id="losinfo">
-          <span class="title" style="font-size:100%;">Ph.d. student</span><br>
-          <span class="title" style="font-size:80%;"> </span>
+          <span class="title" style="font-size:100%;">Ph.D. student</span><br>
+          <span class="title" style="font-size:80%;">  </span>
         </p>
           <p>DFT calculations for astrochemistry</p>
         </div>
@@ -133,7 +133,7 @@ div.d {
   <h2>Former postdoc members</h2>
      dr. Kristof Bal <br>
      dr. Yannick Engelmann <br>
-  <h2>Former PhD members</h2>  
+  <h2>Former Ph.D. members</h2>  
     Attila Kovac <br>
     Mohammad Eb Izadi <br>
   <h2>Former graduate and undergraduate students</h2>  
