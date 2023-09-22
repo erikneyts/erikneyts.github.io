@@ -18,11 +18,11 @@ links:
     url: "https://orcid.org/0000-0002-3360-3196"
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/masthead-image.jpg
-  caption: "Photo credit: [pngtree](https://www.pinterest.co.uk/pin/403283341624204549/)"
+  overlay_image: /assets/images/masthead-image2.jpg
+  # caption: "Photo credit: [pngtree](https://www.pinterest.co.uk/pin/403283341624204549/)"
 ---
 
-<img src="/assets/images/Frontimage-new2.jpg" alt="" class="center" width="800"/>
+<img src="/assets/images/Frontimage-new.jpg" alt="" class="center" width="800"/>
 
 Welcome to my non-Departmental webpage and home of the MOSAIC research team!
 
