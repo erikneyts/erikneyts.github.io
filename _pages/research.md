@@ -1,5 +1,5 @@
 ---
-author: Mosaic
+author: MOSAIC
 layout: single
 title: "Research"
 permalink: /research/
