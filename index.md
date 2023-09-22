@@ -2,6 +2,7 @@
 author: "Erik C. Neyts"
 layout: single
 permalink: /
+title: ""
 hidden: true
 classes: wide
 author_profile: true
