@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 # logo: "/assets/images/logo-small.png"
 title: MOSAIC
-# subtitle: Modelling & Simulation in Chemistry
+subtitle: Modelling & Simulation in Chemistry
 logo: "/assets/images/Logo-MOSAIC.jpg"
 email: erik.neyts@uantwerpen.be
 description: >- # this means to ignore newlines until "baseurl:"
@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: erikneyts
 minimal_mistakes_skin: default # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # minimal_mistakes_skin: default
-search: true
+search: false
 
 collections:
   pages:
