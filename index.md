@@ -24,8 +24,8 @@ header:
 
 <img src="/assets/images/Frontimage-new.jpg" alt="" class="center" width="800"/>
 
-Welcome to my non-Departmental webpage and home of the Mosaic research team!
+Welcome to my non-Departmental webpage and home of the MOSAIC research team!
 
-The Mosaic team is a subdivision of the [PLASMANT](https://www.uantwerpen.be/en/research-groups/plasmant/) research group, led by [Prof. A. Bogaerts](https://www.uantwerpen.be/en/staff/annemie-bogaerts/), at the Department of Chemistry, University of Antwerp. We use molecular scale simulations to unravel reaction mechanisms in plasma-surface and gas-surface interactions, growth and modification of nanomaterials, and astrochemistry. 
+MOSAIC is a research group at the Department of Chemistry, University of Antwerp. We use molecular scale simulations to unravel surface chemistry reaction mechanisms, in three research domains: atmospheric aerosol chemistry, astrochemistry, and catalysis for environmental applications.
 
-For this purpose, we use classical and ab initio molecular dynamics, density functional theory calculations, and enhanced sampling techniques. 
+Our computational toolbox consists of classical and ab initio molecular dynamics, density functional theory calculations, and enhanced sampling techniques. 
