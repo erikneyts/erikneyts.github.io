@@ -22,7 +22,7 @@ header:
   caption: "Photo credit: [pngtree](https://www.pinterest.co.uk/pin/403283341624204549/)"
 ---
 
-<img src="/assets/images/Frontimage-new.jpg" alt="" class="center" width="800"/>
+<img src="/assets/images/Frontimage-new2.jpg" alt="" class="center" width="800"/>
 
 Welcome to my non-Departmental webpage and home of the MOSAIC research team!
 
