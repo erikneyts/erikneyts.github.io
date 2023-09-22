@@ -19,7 +19,7 @@ Erik C. Neyts:
 
 Mosaic:
   name        : "Mosaic"
-  avatar      : "/assets/images/logo-frame.jpg"
+  avatar      : "/assets/images/logo-MOSAIC.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
