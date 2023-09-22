@@ -17,7 +17,7 @@ links:
     icon: "fab fa-fw fa-orcid"
     url: "https://orcid.org/0000-0002-3360-3196"
 header:
-  overlay_color: "#5e616c"
+  # overlay_color: "#5e616c"
   overlay_image: /assets/images/masthead-image2.jpg
   # caption: "Photo credit: [pngtree](https://www.pinterest.co.uk/pin/403283341624204549/)"
 ---
