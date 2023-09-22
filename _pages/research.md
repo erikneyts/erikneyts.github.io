@@ -4,7 +4,8 @@ layout: single
 title: "Research"
 permalink: /research/
 hidden: true
-author_profile: true
+author_profile: false
+classes: wide
 tagline: ""
 header:
   overlay_color: "#5e616c"
