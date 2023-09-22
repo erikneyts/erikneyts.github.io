@@ -17,12 +17,12 @@
 # title: MOSAIC
 # subtitle: Modelling & Simulation in Chemistry
 logo: "/assets/images/Logo-MOSAIC.jpg"
-title:  
+title: ""
 email: erik.neyts@uantwerpen.be
 description: >- # this means to ignore newlines until "baseurl:"
   Webpage of the MOSAIC research group, Department of Chemistry, University of Antwerp.
   We work on atomic and molecular scale simulations of atmospheric aerosol chemistry, astrochemistry and catalysis for environmental applications,
-github_username: erikneyts
+# github_username: erikneyts
 minimal_mistakes_skin: default # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # minimal_mistakes_skin: default
 search: false
