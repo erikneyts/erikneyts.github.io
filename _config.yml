@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # logo: "/assets/images/logo-small.png"
-# title: MOSAIC
-# subtitle: Modeling & Simulation in Chemistry
+title: MOSAIC
+# subtitle: Modelling & Simulation in Chemistry
 logo: "/assets/images/logo-MOSAIC.jpg"
 email: erik.neyts@uantwerpen.be
 description: >- # this means to ignore newlines until "baseurl:"
