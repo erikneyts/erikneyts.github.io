@@ -24,7 +24,6 @@ header:
 ---
 
 <img src="/assets/images/Topics-image.mp4" alt="" class="center" width="800"/>
-# <img src="/assets/images/Frontimage-new.jpg" alt="" class="center" width="800"/>
 
 Welcome to my non-Departmental webpage and home of the MOSAIC research team!
 
