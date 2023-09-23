@@ -24,10 +24,12 @@ header:
 ---
 
 <img src="/assets/images/Logo-MOSAIC.jpg" alt="" class="wide" width="300"/>
-<img src="/assets/images/Topics-image.mp4" alt="" class="center" width="900"/>
 
 Welcome to my non-Departmental webpage and home of the MOSAIC research team!
 
 MOSAIC is a research group at the Department of Chemistry, University of Antwerp. We use molecular scale simulations to unravel surface chemistry reaction mechanisms, in three research domains: atmospheric aerosol chemistry, astrochemistry, and catalysis for environmental applications.
 
 Our computational toolbox consists of classical and ab initio molecular dynamics, density functional theory calculations, and enhanced sampling techniques. 
+
+<img src="/assets/images/Topics-image.mp4" alt="" class="center" width="900"/>
+
