@@ -132,7 +132,9 @@ div.d {
 <div class="c">
   <h2>Active collaborations</h2>
     Prof. dr. Annemie Bogaerts (Research group PLASMANT) <br>
-    dr. Umedjon Khalilov <br>
+    Prof. dr. Vera Meynen (Research group LADCA) <br>
+    Prof. dr. Milorad Milosevic (Research group CMT) <br>
+    dr. Umedjon Khalilov (Arifov Institute of Ion–Plasma and Laser Technologies, Uzbekistan) <br>
   <h2>Former postdoc members</h2>
      dr. Kristof Bal <br>
      dr. Yannick Engelmann <br>
