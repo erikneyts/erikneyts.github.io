@@ -23,8 +23,8 @@ header:
   caption: "Photo credit: [pngtree](https://www.pinterest.co.uk/pin/403283341624204549/)"
 ---
 
-<img src="/assets/images/Logo-MOSAIC.jpg" alt="" class="center" width="800"/>
-<img src="/assets/images/Topics-image.mp4" alt="" class="center" width="800"/>
+<img src="/assets/images/Logo-MOSAIC.jpg" alt="" class="center" width="600"/>
+<img src="/assets/images/Topics-image.mp4" alt="" class="center" width="900"/>
 
 Welcome to my non-Departmental webpage and home of the MOSAIC research team!
 
