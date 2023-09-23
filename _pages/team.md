@@ -131,7 +131,8 @@ div.d {
 
 <div class="c">
   <h2>Active collaborations</h2>
-     dr. Umedjon Khalilov <br>
+    Prof. dr. Annemie Bogaerts (Research group PLASMANT) <br>
+    dr. Umedjon Khalilov <br>
   <h2>Former postdoc members</h2>
      dr. Kristof Bal <br>
      dr. Yannick Engelmann <br>
